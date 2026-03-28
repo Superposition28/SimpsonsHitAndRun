@@ -1,7 +1,34 @@
 
+#
 [[operation]]
+id = 0
+init = true
+run-all = true # rerun when using run-all to ensure config is valid
+depends-on = []
+
+script_type = "lua"
+script = "{{Game_Root}}/operations/init.lua"
+
+
+#
+[[operation]]
+id = 3
+Name = "Download Required Tools"
+run-all = true
+depends-on = [0]
+
+script_type = "engine"
+script = "download-tools"
+tools_manifest = "{{Game_Root}}/Tools.toml"
+
+
+#
+[[operation]]
+id = 4
 Name = "Extract Archives"
-Instructions = "run quickbms script using RemakeRegistry/Games/Simpsons-Hit-and-Run/Scripts/atg_core_cement.bms"
+run-all = true
+depends-on = [3]
+
 script_type = "bms"
 script = "{{Game_Root}}/Scripts/atg_core_cement.bms"
 input = "{{SourcePath}}"
