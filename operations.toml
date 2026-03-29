@@ -22,3 +22,48 @@ script = "download-tools"
 tools_manifest = "{{Game_Root}}/Tools.toml"
 
 
+# ffmpeg -i .\credits.rmv -c:v libx264 -preset fast -crf 23 -c:a aac output.mp4
+# ffmpeg -i .\credits.rmv -map 0:v -map 0:a:0 -c:v libtheora -q:v 7 -c:a libvorbis -q:a 4 output.ogv
+[[operation]]
+id = 4
+Name = "Convert Videos (.rmv -> .ogv)"
+run-all = true
+depends-on = [6] # depends on ffmpeg being downloaded
+script_type = "engine"
+script = "format-convert"
+tool = "ffmpeg"
+args = [
+    "-m", "ffmpeg",
+    "--type", "video",
+    "-s", "{{SourcePath}}/movies",
+    "-t", "{{Game_Root}}/GameFiles/movies",
+    "-i", ".rmv",
+    "-o", ".ogv",
+    "--video-codec", "libtheora",
+    "--video-quality", "7",
+    "--audio-codec", "libvorbis",
+    "--audio-quality", "4"
+]
+
+
+## convert Audio into a usable format for godot
+[[operation]]
+id = 10
+Name = "Convert Audio (.rsd -> .wav)"
+run-all = true
+depends-on = [6] # depends on vgmstream being downloaded, could depend on audio reorg but that is technically optional
+script_type = "engine"
+script = "format-convert"
+tool = "vgmstream"
+args = [
+    "-m", "vgmstream",
+    "--type", "audio",
+    ## doesnt need to specify the location of the audiostreams folder as its within the source path and {{STROUT}} and the only location snu files exist
+    "-s", "{{SourcePath}}/sound",
+    "-t", "{{Game_Root}}/GameFiles/sound",
+    "-i", ".rsd",
+    "-o", ".wav",
+    "--godot-compatible"
+]
+
+

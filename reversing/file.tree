@@ -1,0 +1,4018 @@
+Folder PATH listing for volume Dev_A-(NVMe)-Disk_5
+Volume serial number is 560F-B8F0
+A:.
+|   ambience.rcf
+|   binkw32.dll
+|   carsound.rcf
+|   dialog.rcf
+|   eax.dll
+|   Lucas Simpsons Hit & Run Mod Launcher.exe
+|   Lucas Simpsons Hit & Run Mod Launcher.exe.config
+|   music00.rcf
+|   music01.rcf
+|   music02.rcf
+|   music03.rcf
+|   nis.rcf
+|   pddidx8r.dll
+|   scripts.rcf
+|   Simpsons.exe
+|   simpsons.ini
+|   soundfx.rcf
+|
++---art
+|   |   b00.p3d
+|   |   b00data.p3d
+|   |   b01.p3d
+|   |   b01data.p3d
+|   |   b02.p3d
+|   |   b02data.p3d
+|   |   b02l.p3d
+|   |   b02m.p3d
+|   |   b02s.p3d
+|   |   b02st.p3d
+|   |   b03.p3d
+|   |   b03data.p3d
+|   |   b04.p3d
+|   |   b04data.p3d
+|   |   b05.p3d
+|   |   b05data.p3d
+|   |   b06.p3d
+|   |   b06data.p3d
+|   |   B07.p3d
+|   |   B07data.p3d
+|   |   cards.p3d
+|   |   l01_fx.p3d
+|   |   l02_fx.p3d
+|   |   l03_fx.p3d
+|   |   l04_fx.p3d
+|   |   l05_fx.p3d
+|   |   l06_fx.p3d
+|   |   l07_fx.p3d
+|   |   l1i00.p3d
+|   |   l1i01.p3d
+|   |   l1i02.p3d
+|   |   l1m7door.p3d
+|   |   l1r1.p3d
+|   |   l1r2.p3d
+|   |   l1r3.p3d
+|   |   l1r4a.p3d
+|   |   l1r4b.p3d
+|   |   l1r6.p3d
+|   |   l1r7.p3d
+|   |   l1z1.p3d
+|   |   l1z2.p3d
+|   |   l1z3.p3d
+|   |   l1z4.p3d
+|   |   l1z6.p3d
+|   |   l1z7.p3d
+|   |   l1_sr1p.p3d
+|   |   l1_sr2p.p3d
+|   |   l1_sr3p.p3d
+|   |   L1_TERRA.p3d
+|   |   l2i03.p3d
+|   |   l2i04.p3d
+|   |   l2r1.p3d
+|   |   l2r2.p3d
+|   |   l2r3.p3d
+|   |   l2r4.p3d
+|   |   l2z1.p3d
+|   |   l2z2.p3d
+|   |   l2z3.p3d
+|   |   l2z4.p3d
+|   |   l2_sr1p.p3d
+|   |   l2_sr2p.p3d
+|   |   l2_sr3p.p3d
+|   |   l2_TERRA.p3d
+|   |   l3i05.p3d
+|   |   l3i06.p3d
+|   |   l3r1.p3d
+|   |   l3r2.p3d
+|   |   l3r3.p3d
+|   |   l3r4.p3d
+|   |   l3r5.p3d
+|   |   l3r5_dam.p3d
+|   |   l3z1.p3d
+|   |   l3z2.p3d
+|   |   l3z3.p3d
+|   |   l3z4.p3d
+|   |   l3z5.p3d
+|   |   l3_sr1p.p3d
+|   |   l3_sr2p.p3d
+|   |   l3_sr3p.p3d
+|   |   l3_TERRA.p3d
+|   |   l4i00.p3d
+|   |   l4i01.p3d
+|   |   l4i02.p3d
+|   |   l4i07.p3d
+|   |   l4r1.p3d
+|   |   l4r2.p3d
+|   |   l4r3.p3d
+|   |   l4r4a.p3d
+|   |   l4r4b.p3d
+|   |   l4r6.p3d
+|   |   l4r7.p3d
+|   |   l4z1.p3d
+|   |   l4z2.p3d
+|   |   l4z3.p3d
+|   |   l4z4.p3d
+|   |   l4z6.p3d
+|   |   l4z7.p3d
+|   |   l4_sr1p.p3d
+|   |   l4_sr2p.p3d
+|   |   l4_sr3p.p3d
+|   |   L4_TERRA.p3d
+|   |   l5i03.p3d
+|   |   l5i04.p3d
+|   |   l5r1.p3d
+|   |   l5r2.p3d
+|   |   l5r3.p3d
+|   |   l5r4.p3d
+|   |   l5z1.p3d
+|   |   l5z2.p3d
+|   |   l5z3.p3d
+|   |   l5z4.p3d
+|   |   l5_sr1p.p3d
+|   |   l5_sr2p.p3d
+|   |   l5_sr3p.p3d
+|   |   l5_TERRA.p3d
+|   |   l6i05.p3d
+|   |   l6i06.p3d
+|   |   l6r1.p3d
+|   |   l6r2.p3d
+|   |   l6r3.p3d
+|   |   l6r4.p3d
+|   |   l6r5.p3d
+|   |   l6r5_dam.p3d
+|   |   l6z1.p3d
+|   |   l6z2.p3d
+|   |   l6z3.p3d
+|   |   l6z4.p3d
+|   |   l6z5.p3d
+|   |   l6_sr1p.p3d
+|   |   l6_sr2p.p3d
+|   |   l6_sr3p.p3d
+|   |   l6_TERRA.p3d
+|   |   l7i00.p3d
+|   |   l7i01.p3d
+|   |   l7i02.p3d
+|   |   l7i07.p3d
+|   |   l7r1.p3d
+|   |   l7r2.p3d
+|   |   l7r3.p3d
+|   |   l7r6.p3d
+|   |   l7r7.p3d
+|   |   l7z1.p3d
+|   |   l7z2.p3d
+|   |   l7z3.p3d
+|   |   l7z6.p3d
+|   |   l7z7.p3d
+|   |   l7_sr1p.p3d
+|   |   l7_sr2p.p3d
+|   |   l7_sr3p.p3d
+|   |   L7_TERRA.p3d
+|   |   phonecamera.p3d
+|   |   wrench.p3d
+|   |
+|   +---atc
+|   |       atc.p3d
+|   |
+|   +---cars
+|   |       ambul.p3d
+|   |       apu_v.p3d
+|   |       atv_v.p3d
+|   |       bart_v.p3d
+|   |       bbman_v.p3d
+|   |       bookb_v.p3d
+|   |       burnsarm.p3d
+|   |       burns_v.p3d
+|   |       carhom_v.p3d
+|   |       cArmor.p3d
+|   |       cBlbart.p3d
+|   |       cBone.p3d
+|   |       cCellA.p3d
+|   |       cCellB.p3d
+|   |       cCellC.p3d
+|   |       cCellD.p3d
+|   |       cCola.p3d
+|   |       cCube.p3d
+|   |       cCurator.p3d
+|   |       cDonut.p3d
+|   |       cDuff.p3d
+|   |       cFire_v.p3d
+|   |       cHears.p3d
+|   |       cKlimo.p3d
+|   |       cletu_v.p3d
+|   |       cLimo.p3d
+|   |       cMilk.p3d
+|   |       cNerd.p3d
+|   |       cNonup.p3d
+|   |       coffin.p3d
+|   |       comic_v.p3d
+|   |       common.p3d
+|   |       compactA.p3d
+|   |       cPolice.p3d
+|   |       cSedan.p3d
+|   |       cVan.p3d
+|   |       dune_v.p3d
+|   |       elect_v.p3d
+|   |       famil_v.p3d
+|   |       fishtruc.p3d
+|   |       fone_v.p3d
+|   |       frink_v.p3d
+|   |       garbage.p3d
+|   |       glastruc.p3d
+|   |       gramp_v.p3d
+|   |       gramR_v.p3d
+|   |       hallo.p3d
+|   |       hbike_v.p3d
+|   |       homer_v.p3d
+|   |       honor_v.p3d
+|   |       huskA.p3d
+|   |       hype_v.p3d
+|   |       icecream.p3d
+|   |       IStruck.p3d
+|   |       knigh_v.p3d
+|   |       krust_v.p3d
+|   |       lisa_v.p3d
+|   |       marge_v.p3d
+|   |       minivanA.p3d
+|   |       moe_v.p3d
+|   |       mono_v.p3d
+|   |       mrplo_v.p3d
+|   |       nuctruck.p3d
+|   |       oblit_v.p3d
+|   |       otto_v.p3d
+|   |       pickupA.p3d
+|   |       pizza.p3d
+|   |       plowk_v.p3d
+|   |       redbrick.p3d
+|   |       rocke_v.p3d
+|   |       schoolbu.p3d
+|   |       scorp_v.p3d
+|   |       sedanA.p3d
+|   |       sedanB.p3d
+|   |       ship.p3d
+|   |       skinn_v.p3d
+|   |       smith_v.p3d
+|   |       snake_v.p3d
+|   |       sportsA.p3d
+|   |       sportsB.p3d
+|   |       SUVA.p3d
+|   |       taxiA.p3d
+|   |       tt.p3d
+|   |       votetruc.p3d
+|   |       wagonA.p3d
+|   |       wiggu_v.p3d
+|   |       willi_v.p3d
+|   |       witchcar.p3d
+|   |       zombi_v.p3d
+|   |
+|   +---chars
+|   |       apu.cho
+|   |       apu_a.p3d
+|   |       apu_electrocuted.p3d
+|   |       apu_kickwave.p3d
+|   |       apu_m.p3d
+|   |       askinn_m.p3d
+|   |       a_amer_m.p3d
+|   |       a_army_m.p3d
+|   |       a_besh_m.p3d
+|   |       barney_m.p3d
+|   |       bart.cho
+|   |       bart_a.p3d
+|   |       bart_electrocuted.p3d
+|   |       bart_kickwave.p3d
+|   |       bart_m.p3d
+|   |       beeman_m.p3d
+|   |       boy1_m.p3d
+|   |       boy2_m.p3d
+|   |       boy3_m.p3d
+|   |       boy4_m.p3d
+|   |       brn_un_m.p3d
+|   |       bum_m.p3d
+|   |       burns_m.p3d
+|   |       busm1_m.p3d
+|   |       busm2_m.p3d
+|   |       busw1_m.p3d
+|   |       b_foot_m.p3d
+|   |       b_hugo_m.p3d
+|   |       b_man_m.p3d
+|   |       b_mili_m.p3d
+|   |       b_ninj_m.p3d
+|   |       b_tall_m.p3d
+|   |       captai_m.p3d
+|   |       carl_m.p3d
+|   |       cbg_m.p3d
+|   |       cletus_m.p3d
+|   |       const1_m.p3d
+|   |       const2_m.p3d
+|   |       dolph_m.p3d
+|   |       eddie_m.p3d
+|   |       farmr1_m.p3d
+|   |       fem1_m.p3d
+|   |       fem2_m.p3d
+|   |       fem3_m.p3d
+|   |       fem4_m.p3d
+|   |       franke_m.p3d
+|   |       frink_m.p3d
+|   |       gil_m.p3d
+|   |       girl1_m.p3d
+|   |       girl2_m.p3d
+|   |       girl3_m.p3d
+|   |       girl4_m.p3d
+|   |       global.p3d
+|   |       grandp_m.p3d
+|   |       hibber_m.p3d
+|   |       homer.cho
+|   |       homer_a.p3d
+|   |       homer_electrocuted.p3d
+|   |       homer_kickwave.p3d
+|   |       homer_m.p3d
+|   |       hooker_m.p3d
+|   |       h_donu_m.p3d
+|   |       h_evil_m.p3d
+|   |       h_fat_m.p3d
+|   |       h_scuz_m.p3d
+|   |       h_stcr_m.p3d
+|   |       h_undr_m.p3d
+|   |       jasper_m.p3d
+|   |       jimbo_m.p3d
+|   |       joger1_m.p3d
+|   |       joger2_m.p3d
+|   |       kearne_m.p3d
+|   |       krusty_m.p3d
+|   |       lenny_m.p3d
+|   |       lisa.cho
+|   |       lisa_a.p3d
+|   |       lisa_electrocuted.p3d
+|   |       lisa_kickwave.p3d
+|   |       lisa_m.p3d
+|   |       louie_m.p3d
+|   |       lou_m.p3d
+|   |       l_cool_m.p3d
+|   |       l_flor_m.p3d
+|   |       l_jers_m.p3d
+|   |       male1_m.p3d
+|   |       male2_m.p3d
+|   |       male3_m.p3d
+|   |       male4_m.p3d
+|   |       male5_m.p3d
+|   |       male6_m.p3d
+|   |       marge.cho
+|   |       marge_a.p3d
+|   |       marge_electrocuted.p3d
+|   |       marge_kickwave.p3d
+|   |       marge_m.p3d
+|   |       milhou_m.p3d
+|   |       mobstr_m.p3d
+|   |       moe_m.p3d
+|   |       molema_m.p3d
+|   |       m_pink_m.p3d
+|   |       m_poli_m.p3d
+|   |       m_pris_m.p3d
+|   |       ndr.cho
+|   |       ndr_a.p3d
+|   |       ndr_m.p3d
+|   |       ned_m.p3d
+|   |       nelson_m.p3d
+|   |       npd.cho
+|   |       npd_a.p3d
+|   |       npd_m.p3d
+|   |       nps.cho
+|   |       nps_a.p3d
+|   |       nps_m.p3d
+|   |       nrivie_m.p3d
+|   |       nuclea_m.p3d
+|   |       olady1_m.p3d
+|   |       olady2_m.p3d
+|   |       olady3_m.p3d
+|   |       otto_m.p3d
+|   |       patty_m.p3d
+|   |       ralph_m.p3d
+|   |       rednk1_m.p3d
+|   |       rednk2_m.p3d
+|   |       sail1_m.p3d
+|   |       sail2_m.p3d
+|   |       sail3_m.p3d
+|   |       sail4_m.p3d
+|   |       selma_m.p3d
+|   |       skinne_m.p3d
+|   |       smithe_m.p3d
+|   |       snake_m.p3d
+|   |       teen_m.p3d
+|   |       wiggum_m.p3d
+|   |       willie_m.p3d
+|   |       witch_m.p3d
+|   |       zfem1_m.p3d
+|   |       zfem5_m.p3d
+|   |       zmale1_m.p3d
+|   |       zmale3_m.p3d
+|   |       zmale4_m.p3d
+|   |
+|   +---frontend
+|   |   +---dynaload
+|   |   |   +---cars
+|   |   |   |       apu_v.p3d
+|   |   |   |       bart_v.p3d
+|   |   |   |       bbman_v.p3d
+|   |   |   |       bookb_v.p3d
+|   |   |   |       burns_v.p3d
+|   |   |   |       carhom_v.p3d
+|   |   |   |       cArmor.p3d
+|   |   |   |       cCola.p3d
+|   |   |   |       cCurator.p3d
+|   |   |   |       cDonut.p3d
+|   |   |   |       cDuff.p3d
+|   |   |   |       cFire_v.p3d
+|   |   |   |       cHears.p3d
+|   |   |   |       cKlimo.p3d
+|   |   |   |       cletu_v.p3d
+|   |   |   |       cLimo.p3d
+|   |   |   |       cNerd.p3d
+|   |   |   |       comic_v.p3d
+|   |   |   |       cPolice.p3d
+|   |   |   |       cSedan.p3d
+|   |   |   |       cVan.p3d
+|   |   |   |       elect_v.p3d
+|   |   |   |       famil_v.p3d
+|   |   |   |       fone_v.p3d
+|   |   |   |       frink_v.p3d
+|   |   |   |       gramp_v.p3d
+|   |   |   |       gramR_v.p3d
+|   |   |   |       hbike_v.p3d
+|   |   |   |       homer_v.p3d
+|   |   |   |       honor_v.p3d
+|   |   |   |       krust_v.p3d
+|   |   |   |       lisa_v.p3d
+|   |   |   |       marge_v.p3d
+|   |   |   |       moe_v.p3d
+|   |   |   |       mrplo_v.p3d
+|   |   |   |       otto_v.p3d
+|   |   |   |       plowk_v.p3d
+|   |   |   |       scorp_v.p3d
+|   |   |   |       skinn_v.p3d
+|   |   |   |       smith_v.p3d
+|   |   |   |       snake_v.p3d
+|   |   |   |       temp.err
+|   |   |   |       wiggu_v.p3d
+|   |   |   |       willi_v.p3d
+|   |   |   |       zombi_v.p3d
+|   |   |   |
+|   |   |   \---images
+|   |   |       |   kang.p3d
+|   |   |       |   kodos.p3d
+|   |   |       |   loading1.p3d
+|   |   |       |   loading2.p3d
+|   |   |       |   loading3.p3d
+|   |   |       |   loading4.p3d
+|   |   |       |   loading5.p3d
+|   |   |       |   loading6.p3d
+|   |   |       |   loading7.p3d
+|   |   |       |   mis01_00.p3d
+|   |   |       |   mis01_01.p3d
+|   |   |       |   mis01_02.p3d
+|   |   |       |   mis01_03.p3d
+|   |   |       |   mis01_04.p3d
+|   |   |       |   mis01_05.p3d
+|   |   |       |   mis01_06.p3d
+|   |   |       |   mis01_07.p3d
+|   |   |       |   mis01_08.p3d
+|   |   |       |   mis02_01.p3d
+|   |   |       |   mis02_02.p3d
+|   |   |       |   mis02_03.p3d
+|   |   |       |   mis02_04.p3d
+|   |   |       |   mis02_05.p3d
+|   |   |       |   mis02_06.p3d
+|   |   |       |   mis02_07.p3d
+|   |   |       |   mis02_08.p3d
+|   |   |       |   mis03_01.p3d
+|   |   |       |   mis03_02.p3d
+|   |   |       |   mis03_03.p3d
+|   |   |       |   mis03_04.p3d
+|   |   |       |   mis03_05.p3d
+|   |   |       |   mis03_06.p3d
+|   |   |       |   mis03_07.p3d
+|   |   |       |   mis03_08.p3d
+|   |   |       |   mis04_01.p3d
+|   |   |       |   mis04_02.p3d
+|   |   |       |   mis04_03.p3d
+|   |   |       |   mis04_04.p3d
+|   |   |       |   mis04_05.p3d
+|   |   |       |   mis04_06.p3d
+|   |   |       |   mis04_07.p3d
+|   |   |       |   mis04_08.p3d
+|   |   |       |   mis05_01.p3d
+|   |   |       |   mis05_02.p3d
+|   |   |       |   mis05_03.p3d
+|   |   |       |   mis05_04.p3d
+|   |   |       |   mis05_05.p3d
+|   |   |       |   mis05_06.p3d
+|   |   |       |   mis05_07.p3d
+|   |   |       |   mis05_08.p3d
+|   |   |       |   mis06_01.p3d
+|   |   |       |   mis06_02.p3d
+|   |   |       |   mis06_03.p3d
+|   |   |       |   mis06_04.p3d
+|   |   |       |   mis06_05.p3d
+|   |   |       |   mis06_06.p3d
+|   |   |       |   mis06_07.p3d
+|   |   |       |   mis06_08.p3d
+|   |   |       |   mis07_01.p3d
+|   |   |       |   mis07_02.p3d
+|   |   |       |   mis07_03.p3d
+|   |   |       |   mis07_04.p3d
+|   |   |       |   mis07_05.p3d
+|   |   |       |   mis07_06.p3d
+|   |   |       |   mis07_07.p3d
+|   |   |       |   mis07_08.p3d
+|   |   |       |   misXX_CP.p3d
+|   |   |       |   misXX_CT.p3d
+|   |   |       |   misXX_GB.p3d
+|   |   |       |   misXX_HW.p3d
+|   |   |       |   misXX_PS.p3d
+|   |   |       |   misXX_TT.p3d
+|   |   |       |   mouse_cursor.p3d
+|   |   |       |   temp.err
+|   |   |       |
+|   |   |       +---cars2D
+|   |   |       |       apu_v.p3d
+|   |   |       |       apu_v.png
+|   |   |       |       apu_vD.p3d
+|   |   |       |       apu_vD.png
+|   |   |       |       bart_v.p3d
+|   |   |       |       bart_v.png
+|   |   |       |       bart_vD.p3d
+|   |   |       |       bart_vD.png
+|   |   |       |       bbman_v.p3d
+|   |   |       |       bbman_v.png
+|   |   |       |       bbman_vD.p3d
+|   |   |       |       bbman_vD.png
+|   |   |       |       bookb_v.p3d
+|   |   |       |       bookb_v.png
+|   |   |       |       bookb_vD.p3d
+|   |   |       |       bookb_vD.png
+|   |   |       |       burns_v.p3d
+|   |   |       |       burns_v.png
+|   |   |       |       burns_vD.p3d
+|   |   |       |       burns_vD.png
+|   |   |       |       carhom_v.p3d
+|   |   |       |       carhom_v.png
+|   |   |       |       carhom_vD.p3d
+|   |   |       |       carhom_vD.png
+|   |   |       |       cArmor.p3d
+|   |   |       |       cArmor.png
+|   |   |       |       cArmorD.p3d
+|   |   |       |       cArmorD.png
+|   |   |       |       cCola.p3d
+|   |   |       |       cCola.png
+|   |   |       |       cColaD.p3d
+|   |   |       |       cColaD.png
+|   |   |       |       cCurator.p3d
+|   |   |       |       cCurator.png
+|   |   |       |       cCuratorD.p3d
+|   |   |       |       cCuratorD.png
+|   |   |       |       cDonut.p3d
+|   |   |       |       cDonut.png
+|   |   |       |       cDonutD.p3d
+|   |   |       |       cDonutD.png
+|   |   |       |       cDuff.p3d
+|   |   |       |       cDuff.png
+|   |   |       |       cDuffD.p3d
+|   |   |       |       cDuffD.png
+|   |   |       |       cFire_v.p3d
+|   |   |       |       cFire_v.png
+|   |   |       |       cFire_vD.p3d
+|   |   |       |       cFire_vD.png
+|   |   |       |       cHears.p3d
+|   |   |       |       cHears.png
+|   |   |       |       cHearsD.p3d
+|   |   |       |       cHearsD.png
+|   |   |       |       cKlimo.p3d
+|   |   |       |       cKlimo.png
+|   |   |       |       cKlimoD.p3d
+|   |   |       |       cKlimoD.png
+|   |   |       |       cletu_v.p3d
+|   |   |       |       cletu_v.png
+|   |   |       |       cletu_vD.p3d
+|   |   |       |       cletu_vD.png
+|   |   |       |       cLimo.p3d
+|   |   |       |       cLimo.png
+|   |   |       |       cLimoD.p3d
+|   |   |       |       cLimoD.png
+|   |   |       |       cNerd.p3d
+|   |   |       |       cNerd.png
+|   |   |       |       cNerdD.p3d
+|   |   |       |       cNerdD.png
+|   |   |       |       comic_v.p3d
+|   |   |       |       comic_v.png
+|   |   |       |       comic_vD.p3d
+|   |   |       |       comic_vD.png
+|   |   |       |       cPolice.p3d
+|   |   |       |       cPolice.png
+|   |   |       |       cPoliceD.p3d
+|   |   |       |       cPoliceD.png
+|   |   |       |       cSedan.p3d
+|   |   |       |       cSedan.png
+|   |   |       |       cSedanD.p3d
+|   |   |       |       cSedanD.png
+|   |   |       |       cVan.p3d
+|   |   |       |       cVan.png
+|   |   |       |       cVanD.p3d
+|   |   |       |       cVanD.png
+|   |   |       |       elect_v.p3d
+|   |   |       |       elect_v.png
+|   |   |       |       elect_vD.p3d
+|   |   |       |       elect_vD.png
+|   |   |       |       famil_v.p3d
+|   |   |       |       famil_v.png
+|   |   |       |       famil_vD.p3d
+|   |   |       |       famil_vD.png
+|   |   |       |       fone_v.p3d
+|   |   |       |       fone_v.png
+|   |   |       |       fone_vD.p3d
+|   |   |       |       fone_vD.png
+|   |   |       |       frink_v.p3d
+|   |   |       |       frink_v.png
+|   |   |       |       frink_vD.p3d
+|   |   |       |       frink_vD.png
+|   |   |       |       gramp_v.p3d
+|   |   |       |       gramp_v.png
+|   |   |       |       gramp_vD.p3d
+|   |   |       |       gramp_vD.png
+|   |   |       |       hbike_v.p3d
+|   |   |       |       hbike_v.png
+|   |   |       |       hbike_vD.p3d
+|   |   |       |       hbike_vD.png
+|   |   |       |       homer_v.p3d
+|   |   |       |       homer_v.png
+|   |   |       |       homer_vD.p3d
+|   |   |       |       homer_vD.png
+|   |   |       |       honor_v.p3d
+|   |   |       |       honor_v.png
+|   |   |       |       honor_vD.p3d
+|   |   |       |       honor_vD.png
+|   |   |       |       krust_v.p3d
+|   |   |       |       krust_v.png
+|   |   |       |       krust_vD.p3d
+|   |   |       |       krust_vD.png
+|   |   |       |       lisa_v.p3d
+|   |   |       |       lisa_v.png
+|   |   |       |       lisa_vD.p3d
+|   |   |       |       lisa_vD.png
+|   |   |       |       marge_v.p3d
+|   |   |       |       marge_v.png
+|   |   |       |       marge_vD.p3d
+|   |   |       |       marge_vD.png
+|   |   |       |       moe_v.p3d
+|   |   |       |       moe_v.png
+|   |   |       |       moe_vD.p3d
+|   |   |       |       moe_vD.png
+|   |   |       |       mrplo_v.p3d
+|   |   |       |       mrplo_v.png
+|   |   |       |       mrplo_vD.p3d
+|   |   |       |       mrplo_vD.png
+|   |   |       |       otto_v.p3d
+|   |   |       |       otto_v.png
+|   |   |       |       otto_vD.p3d
+|   |   |       |       otto_vD.png
+|   |   |       |       plowk_v.p3d
+|   |   |       |       plowk_v.png
+|   |   |       |       plowk_vD.p3d
+|   |   |       |       plowk_vD.png
+|   |   |       |       scorp_v.p3d
+|   |   |       |       scorp_v.png
+|   |   |       |       scorp_vD.p3d
+|   |   |       |       scorp_vD.png
+|   |   |       |       skinn_v.p3d
+|   |   |       |       skinn_v.png
+|   |   |       |       skinn_vD.p3d
+|   |   |       |       skinn_vD.png
+|   |   |       |       smith_v.p3d
+|   |   |       |       smith_v.png
+|   |   |       |       smith_vD.p3d
+|   |   |       |       smith_vD.png
+|   |   |       |       snake_v.p3d
+|   |   |       |       snake_v.png
+|   |   |       |       snake_vD.p3d
+|   |   |       |       snake_vD.png
+|   |   |       |       temp.err
+|   |   |       |       wiggu_v.p3d
+|   |   |       |       wiggu_v.png
+|   |   |       |       wiggu_vD.p3d
+|   |   |       |       wiggu_vD.png
+|   |   |       |       willi_v.p3d
+|   |   |       |       willi_v.png
+|   |   |       |       willi_vD.p3d
+|   |   |       |       willi_vD.png
+|   |   |       |       zombi_v.p3d
+|   |   |       |       zombi_v.png
+|   |   |       |       zombi_vD.p3d
+|   |   |       |       zombi_vD.png
+|   |   |       |
+|   |   |       +---license
+|   |   |       |   |   licenseG.p3d
+|   |   |       |   |   licenseG.png
+|   |   |       |   |   licenseP.p3d
+|   |   |       |   |   licenseP.png
+|   |   |       |   |   licensePC.p3d
+|   |   |       |   |   licenseX.p3d
+|   |   |       |   |   licenseX.png
+|   |   |       |   |
+|   |   |       |   +---french
+|   |   |       |   |       licenseG.p3d
+|   |   |       |   |       licenseG.png
+|   |   |       |   |       licenseP.p3d
+|   |   |       |   |       licenseP.png
+|   |   |       |   |       licensePC.p3d
+|   |   |       |   |       licenseX.p3d
+|   |   |       |   |       licenseX.png
+|   |   |       |   |
+|   |   |       |   +---german
+|   |   |       |   |       licenseG.p3d
+|   |   |       |   |       licenseG.png
+|   |   |       |   |       licenseP.p3d
+|   |   |       |   |       licenseP.png
+|   |   |       |   |       licensePC.p3d
+|   |   |       |   |       licenseX.p3d
+|   |   |       |   |       licenseX.png
+|   |   |       |   |
+|   |   |       |   \---spanish
+|   |   |       |           licenseG.p3d
+|   |   |       |           licenseG.png
+|   |   |       |           licenseP.p3d
+|   |   |       |           licenseP.png
+|   |   |       |           licensePC.p3d
+|   |   |       |           licenseX.p3d
+|   |   |       |           licenseX.png
+|   |   |       |
+|   |   |       +---loading
+|   |   |       |   |   loading1.p3d
+|   |   |       |   |   loading1.png
+|   |   |       |   |   loading2.p3d
+|   |   |       |   |   loading2.png
+|   |   |       |   |   loading3.p3d
+|   |   |       |   |   loading3.png
+|   |   |       |   |   loading4.p3d
+|   |   |       |   |   loading4.png
+|   |   |       |   |   loading5.p3d
+|   |   |       |   |   loading5.png
+|   |   |       |   |   loading6.p3d
+|   |   |       |   |   loading6.png
+|   |   |       |   |   loading7.p3d
+|   |   |       |   |   loading7.png
+|   |   |       |   |
+|   |   |       |   +---french
+|   |   |       |   |       loading1.p3d
+|   |   |       |   |       loading1.png
+|   |   |       |   |       loading2.p3d
+|   |   |       |   |       loading2.png
+|   |   |       |   |       loading3.p3d
+|   |   |       |   |       loading3.png
+|   |   |       |   |       loading4.p3d
+|   |   |       |   |       loading4.png
+|   |   |       |   |       loading5.p3d
+|   |   |       |   |       loading5.png
+|   |   |       |   |       loading6.p3d
+|   |   |       |   |       loading6.png
+|   |   |       |   |       loading7.p3d
+|   |   |       |   |       loading7.png
+|   |   |       |   |
+|   |   |       |   +---german
+|   |   |       |   |       loading1.p3d
+|   |   |       |   |       loading1.png
+|   |   |       |   |       loading2.p3d
+|   |   |       |   |       loading2.png
+|   |   |       |   |       loading3.p3d
+|   |   |       |   |       loading3.png
+|   |   |       |   |       loading4.p3d
+|   |   |       |   |       loading4.png
+|   |   |       |   |       loading5.p3d
+|   |   |       |   |       loading5.png
+|   |   |       |   |       loading6.p3d
+|   |   |       |   |       loading6.png
+|   |   |       |   |       loading7.p3d
+|   |   |       |   |       loading7.png
+|   |   |       |   |
+|   |   |       |   \---spanish
+|   |   |       |           loading1.p3d
+|   |   |       |           loading1.png
+|   |   |       |           loading2.p3d
+|   |   |       |           loading2.png
+|   |   |       |           loading3.p3d
+|   |   |       |           loading3.png
+|   |   |       |           loading4.p3d
+|   |   |       |           loading4.png
+|   |   |       |           loading5.p3d
+|   |   |       |           loading5.png
+|   |   |       |           loading6.p3d
+|   |   |       |           loading6.png
+|   |   |       |           loading7.p3d
+|   |   |       |           loading7.png
+|   |   |       |
+|   |   |       +---msnicons
+|   |   |       |   |   temp.err
+|   |   |       |   |
+|   |   |       |   +---char
+|   |   |       |   |       apu.p3d
+|   |   |       |   |       apu.png
+|   |   |       |   |       barne.p3d
+|   |   |       |   |       barne.png
+|   |   |       |   |       barneuni.p3d
+|   |   |       |   |       barneuni.png
+|   |   |       |   |       bart.p3d
+|   |   |       |   |       bart.png
+|   |   |       |   |       burns.p3d
+|   |   |       |   |       burns.png
+|   |   |       |   |       carl.p3d
+|   |   |       |   |       carl.png
+|   |   |       |   |       cbg.p3d
+|   |   |       |   |       cbg.png
+|   |   |       |   |       cletus.p3d
+|   |   |       |   |       cletus.png
+|   |   |       |   |       drhibert.p3d
+|   |   |       |   |       drhibert.png
+|   |   |       |   |       drnick.p3d
+|   |   |       |   |       drnick.png
+|   |   |       |   |       frink.p3d
+|   |   |       |   |       frink.png
+|   |   |       |   |       grampa.p3d
+|   |   |       |   |       grampa.png
+|   |   |       |   |       homer.p3d
+|   |   |       |   |       homer.png
+|   |   |       |   |       jimbo.p3d
+|   |   |       |   |       jimbo.png
+|   |   |       |   |       kearney.p3d
+|   |   |       |   |       kearney.png
+|   |   |       |   |       krusty.p3d
+|   |   |       |   |       krusty.png
+|   |   |       |   |       lenny.p3d
+|   |   |       |   |       lenny.png
+|   |   |       |   |       lisa.p3d
+|   |   |       |   |       lisa.png
+|   |   |       |   |       louie.p3d
+|   |   |       |   |       louie.png
+|   |   |       |   |       marage.p3d
+|   |   |       |   |       marage.png
+|   |   |       |   |       milhouse.p3d
+|   |   |       |   |       milhouse.png
+|   |   |       |   |       moe.p3d
+|   |   |       |   |       moe.png
+|   |   |       |   |       moleman.p3d
+|   |   |       |   |       moleman.png
+|   |   |       |   |       ned.p3d
+|   |   |       |   |       ned.png
+|   |   |       |   |       nelson.p3d
+|   |   |       |   |       nelson.png
+|   |   |       |   |       otto.p3d
+|   |   |       |   |       otto.png
+|   |   |       |   |       ralph.p3d
+|   |   |       |   |       ralph.png
+|   |   |       |   |       scaptain.p3d
+|   |   |       |   |       scaptain.png
+|   |   |       |   |       sjail.p3d
+|   |   |       |   |       sjail.png
+|   |   |       |   |       skinner.p3d
+|   |   |       |   |       skinner.png
+|   |   |       |   |       smithers.p3d
+|   |   |       |   |       smithers.png
+|   |   |       |   |       snake.p3d
+|   |   |       |   |       snake.png
+|   |   |       |   |       svt.p3d
+|   |   |       |   |       svt.png
+|   |   |       |   |       temp.err
+|   |   |       |   |       wiggum.p3d
+|   |   |       |   |       wiggum.png
+|   |   |       |   |
+|   |   |       |   +---location
+|   |   |       |   |       android.p3d
+|   |   |       |   |       android.png
+|   |   |       |   |       aztec.p3d
+|   |   |       |   |       aztec.png
+|   |   |       |   |       bartroom.p3d
+|   |   |       |   |       bartroom.png
+|   |   |       |   |       bowlera.p3d
+|   |   |       |   |       bowlera.png
+|   |   |       |   |       casino.p3d
+|   |   |       |   |       casino.png
+|   |   |       |   |       cemetery.p3d
+|   |   |       |   |       cemetery.png
+|   |   |       |   |       chum.p3d
+|   |   |       |   |       chum.png
+|   |   |       |   |       cletushs.p3d
+|   |   |       |   |       cletushs.png
+|   |   |       |   |       dmv.p3d
+|   |   |       |   |       dmv.png
+|   |   |       |   |       duff.p3d
+|   |   |       |   |       duff.png
+|   |   |       |   |       google.p3d
+|   |   |       |   |       google.png
+|   |   |       |   |       grocery.p3d
+|   |   |       |   |       grocery.png
+|   |   |       |   |       hermans.p3d
+|   |   |       |   |       hermans.png
+|   |   |       |   |       hospital.p3d
+|   |   |       |   |       hospital.png
+|   |   |       |   |       itcstore.p3d
+|   |   |       |   |       itcstore.png
+|   |   |       |   |       java.p3d
+|   |   |       |   |       java.png
+|   |   |       |   |       kburger.p3d
+|   |   |       |   |       kburger.png
+|   |   |       |   |       krustylu.p3d
+|   |   |       |   |       krustylu.png
+|   |   |       |   |       kwike.p3d
+|   |   |       |   |       kwike.png
+|   |   |       |   |       lardlads.p3d
+|   |   |       |   |       lardlads.png
+|   |   |       |   |       lbsc.p3d
+|   |   |       |   |       lbsc.png
+|   |   |       |   |       lexicon.p3d
+|   |   |       |   |       lexicon.png
+|   |   |       |   |       mansion.p3d
+|   |   |       |   |       mansion.png
+|   |   |       |   |       moehouse.p3d
+|   |   |       |   |       moehouse.png
+|   |   |       |   |       moes.p3d
+|   |   |       |   |       moes.png
+|   |   |       |   |       monorail.p3d
+|   |   |       |   |       monorail.png
+|   |   |       |   |       museum.p3d
+|   |   |       |   |       museum.png
+|   |   |       |   |       noise.p3d
+|   |   |       |   |       noise.png
+|   |   |       |   |       observ.p3d
+|   |   |       |   |       observ.png
+|   |   |       |   |       parking.p3d
+|   |   |       |   |       parking.png
+|   |   |       |   |       planethy.p3d
+|   |   |       |   |       planethy.png
+|   |   |       |   |       playgrou.p3d
+|   |   |       |   |       playgrou.png
+|   |   |       |   |       police.p3d
+|   |   |       |   |       police.png
+|   |   |       |   |       pwrplant.p3d
+|   |   |       |   |       pwrplant.png
+|   |   |       |   |       retire.p3d
+|   |   |       |   |       retire.png
+|   |   |       |   |       right.p3d
+|   |   |       |   |       right.png
+|   |   |       |   |       school.p3d
+|   |   |       |   |       school.png
+|   |   |       |   |       scream.p3d
+|   |   |       |   |       scream.png
+|   |   |       |   |       ship.p3d
+|   |   |       |   |       ship.png
+|   |   |       |   |       simpsons.p3d
+|   |   |       |   |       simpsons.png
+|   |   |       |   |       sitnrota.p3d
+|   |   |       |   |       sitnrota.png
+|   |   |       |   |       spsign.p3d
+|   |   |       |   |       spsign.png
+|   |   |       |   |       squidp.p3d
+|   |   |       |   |       squidp.png
+|   |   |       |   |       stadium.p3d
+|   |   |       |   |       stadium.png
+|   |   |       |   |       taffy.p3d
+|   |   |       |   |       taffy.png
+|   |   |       |   |       temp.err
+|   |   |       |   |       townhall.p3d
+|   |   |       |   |       townhall.png
+|   |   |       |   |       trynsave.p3d
+|   |   |       |   |       trynsave.png
+|   |   |       |   |       ufo.p3d
+|   |   |       |   |       ufo.png
+|   |   |       |   |       wallewea.p3d
+|   |   |       |   |       wallewea.png
+|   |   |       |   |       wstation.p3d
+|   |   |       |   |       wstation.png
+|   |   |       |   |
+|   |   |       |   +---object
+|   |   |       |   |       antifung.p3d
+|   |   |       |   |       antifung.png
+|   |   |       |   |       barrel.p3d
+|   |   |       |   |       barrel.png
+|   |   |       |   |       blender.p3d
+|   |   |       |   |       blender.png
+|   |   |       |   |       blood.p3d
+|   |   |       |   |       blood.png
+|   |   |       |   |       boards.p3d
+|   |   |       |   |       boards.png
+|   |   |       |   |       bonestor.p3d
+|   |   |       |   |       bonestor.png
+|   |   |       |   |       buzzcola.p3d
+|   |   |       |   |       buzzcola.png
+|   |   |       |   |       caffeine.p3d
+|   |   |       |   |       caffeine.png
+|   |   |       |   |       cardboar.p3d
+|   |   |       |   |       cardboar.png
+|   |   |       |   |       chainsaw.p3d
+|   |   |       |   |       chainsaw.png
+|   |   |       |   |       colacrat.p3d
+|   |   |       |   |       colacrat.png
+|   |   |       |   |       comic.p3d
+|   |   |       |   |       comic.png
+|   |   |       |   |       cooler.p3d
+|   |   |       |   |       cooler.png
+|   |   |       |   |       diaper.p3d
+|   |   |       |   |       diaper.png
+|   |   |       |   |       digest.p3d
+|   |   |       |   |       digest.png
+|   |   |       |   |       donuts.p3d
+|   |   |       |   |       donuts.png
+|   |   |       |   |       firework.p3d
+|   |   |       |   |       firework.png
+|   |   |       |   |       firstaid.p3d
+|   |   |       |   |       firstaid.png
+|   |   |       |   |       fish.p3d
+|   |   |       |   |       fish.png
+|   |   |       |   |       flatmeat.p3d
+|   |   |       |   |       flatmeat.png
+|   |   |       |   |       folder.p3d
+|   |   |       |   |       folder.png
+|   |   |       |   |       heart.p3d
+|   |   |       |   |       heart.png
+|   |   |       |   |       icecream.p3d
+|   |   |       |   |       icecream.png
+|   |   |       |   |       inhaler.p3d
+|   |   |       |   |       inhaler.png
+|   |   |       |   |       kbmeal.p3d
+|   |   |       |   |       kbmeal.png
+|   |   |       |   |       ketchup.p3d
+|   |   |       |   |       ketchup.png
+|   |   |       |   |       key.p3d
+|   |   |       |   |       key.png
+|   |   |       |   |       kids.p3d
+|   |   |       |   |       kids.png
+|   |   |       |   |       lasercra.p3d
+|   |   |       |   |       lasercra.png
+|   |   |       |   |       lasergun.p3d
+|   |   |       |   |       lasergun.png
+|   |   |       |   |       lasersta.p3d
+|   |   |       |   |       lasersta.png
+|   |   |       |   |       lawnchr.p3d
+|   |   |       |   |       lawnchr.png
+|   |   |       |   |       lawnmwr.p3d
+|   |   |       |   |       lawnmwr.png
+|   |   |       |   |       litter.p3d
+|   |   |       |   |       litter.png
+|   |   |       |   |       lundry.p3d
+|   |   |       |   |       lundry.png
+|   |   |       |   |       map.p3d
+|   |   |       |   |       map.png
+|   |   |       |   |       monkey.p3d
+|   |   |       |   |       monkey.png
+|   |   |       |   |       photo.p3d
+|   |   |       |   |       photo.png
+|   |   |       |   |       pills.p3d
+|   |   |       |   |       pills.png
+|   |   |       |   |       powercou.p3d
+|   |   |       |   |       powercou.png
+|   |   |       |   |       race.p3d
+|   |   |       |   |       race.png
+|   |   |       |   |       radio.p3d
+|   |   |       |   |       radio.png
+|   |   |       |   |       record.p3d
+|   |   |       |   |       record.png
+|   |   |       |   |       redhat.p3d
+|   |   |       |   |       redhat.png
+|   |   |       |   |       setelite.p3d
+|   |   |       |   |       setelite.png
+|   |   |       |   |       sock.p3d
+|   |   |       |   |       sock.png
+|   |   |       |   |       tamacco.p3d
+|   |   |       |   |       tamacco.png
+|   |   |       |   |       temp.err
+|   |   |       |   |       tomoto.p3d
+|   |   |       |   |       tomoto.png
+|   |   |       |   |       tooth.p3d
+|   |   |       |   |       tooth.png
+|   |   |       |   |       tshirt.p3d
+|   |   |       |   |       tshirt.png
+|   |   |       |   |       tuxedo.p3d
+|   |   |       |   |       tuxedo.png
+|   |   |       |   |
+|   |   |       |   \---vehicle
+|   |   |       |           apu_v.p3d
+|   |   |       |           apu_v.png
+|   |   |       |           arm_v.p3d
+|   |   |       |           arm_v.png
+|   |   |       |           blimo_v.p3d
+|   |   |       |           blimo_v.png
+|   |   |       |           bsedan_v.p3d
+|   |   |       |           bsedan_v.png
+|   |   |       |           celph_v.p3d
+|   |   |       |           celph_v.png
+|   |   |       |           cletus_v.p3d
+|   |   |       |           cletus_v.png
+|   |   |       |           cola_v.p3d
+|   |   |       |           cola_v.png
+|   |   |       |           cvan_v.p3d
+|   |   |       |           cvan_v.png
+|   |   |       |           frink_v.p3d
+|   |   |       |           frink_v.png
+|   |   |       |           krusty_v.p3d
+|   |   |       |           krusty_v.png
+|   |   |       |           milk_v.p3d
+|   |   |       |           milk_v.png
+|   |   |       |           skinn_v.p3d
+|   |   |       |           skinn_v.png
+|   |   |       |           smith_v.p3d
+|   |   |       |           smith_v.png
+|   |   |       |           sports_v.p3d
+|   |   |       |           sports_v.png
+|   |   |       |           temp.err
+|   |   |       |           wiggu_v.p3d
+|   |   |       |           wiggu_v.png
+|   |   |       |
+|   |   |       +---scrapbook
+|   |   |       |       mis01_01.p3d
+|   |   |       |       mis01_01.png
+|   |   |       |       mis01_02.p3d
+|   |   |       |       mis01_02.png
+|   |   |       |       mis01_03.p3d
+|   |   |       |       mis01_03.png
+|   |   |       |       mis01_04.p3d
+|   |   |       |       mis01_04.png
+|   |   |       |       mis01_05.p3d
+|   |   |       |       mis01_05.png
+|   |   |       |       mis01_06.p3d
+|   |   |       |       mis01_06.png
+|   |   |       |       mis01_07.p3d
+|   |   |       |       mis01_07.png
+|   |   |       |       mis01_08.p3d
+|   |   |       |       mis01_08.png
+|   |   |       |       mis02_01.p3d
+|   |   |       |       mis02_01.png
+|   |   |       |       mis02_02.p3d
+|   |   |       |       mis02_02.png
+|   |   |       |       mis02_03.p3d
+|   |   |       |       mis02_03.png
+|   |   |       |       mis02_04.p3d
+|   |   |       |       mis02_04.png
+|   |   |       |       mis02_05.p3d
+|   |   |       |       mis02_05.png
+|   |   |       |       mis02_06.p3d
+|   |   |       |       mis02_06.png
+|   |   |       |       mis02_07.p3d
+|   |   |       |       mis02_07.png
+|   |   |       |       mis02_08.p3d
+|   |   |       |       mis02_08.png
+|   |   |       |       mis03_01.p3d
+|   |   |       |       mis03_01.png
+|   |   |       |       mis03_02.p3d
+|   |   |       |       mis03_02.png
+|   |   |       |       mis03_03.p3d
+|   |   |       |       mis03_03.png
+|   |   |       |       mis03_04.p3d
+|   |   |       |       mis03_04.png
+|   |   |       |       mis03_05.p3d
+|   |   |       |       mis03_05.png
+|   |   |       |       mis03_06.p3d
+|   |   |       |       mis03_06.png
+|   |   |       |       mis03_07.p3d
+|   |   |       |       mis03_07.png
+|   |   |       |       mis03_08.p3d
+|   |   |       |       mis03_08.png
+|   |   |       |       mis04_01.p3d
+|   |   |       |       mis04_01.png
+|   |   |       |       mis04_02.p3d
+|   |   |       |       mis04_02.png
+|   |   |       |       mis04_03.p3d
+|   |   |       |       mis04_03.png
+|   |   |       |       mis04_04.p3d
+|   |   |       |       mis04_04.png
+|   |   |       |       mis04_05.p3d
+|   |   |       |       mis04_05.png
+|   |   |       |       mis04_06.p3d
+|   |   |       |       mis04_06.png
+|   |   |       |       mis04_07.p3d
+|   |   |       |       mis04_07.png
+|   |   |       |       mis04_08.p3d
+|   |   |       |       mis04_08.png
+|   |   |       |       mis05_01.p3d
+|   |   |       |       mis05_01.png
+|   |   |       |       mis05_02.p3d
+|   |   |       |       mis05_02.png
+|   |   |       |       mis05_03.p3d
+|   |   |       |       mis05_03.png
+|   |   |       |       mis05_04.p3d
+|   |   |       |       mis05_04.png
+|   |   |       |       mis05_05.p3d
+|   |   |       |       mis05_05.png
+|   |   |       |       mis05_06.p3d
+|   |   |       |       mis05_06.png
+|   |   |       |       mis05_07.p3d
+|   |   |       |       mis05_07.png
+|   |   |       |       mis05_08.p3d
+|   |   |       |       mis05_08.png
+|   |   |       |       mis06_01.p3d
+|   |   |       |       mis06_01.png
+|   |   |       |       mis06_02.p3d
+|   |   |       |       mis06_02.png
+|   |   |       |       mis06_03.p3d
+|   |   |       |       mis06_03.png
+|   |   |       |       mis06_04.p3d
+|   |   |       |       mis06_04.png
+|   |   |       |       mis06_05.p3d
+|   |   |       |       mis06_05.png
+|   |   |       |       mis06_06.p3d
+|   |   |       |       mis06_06.png
+|   |   |       |       mis06_07.p3d
+|   |   |       |       mis06_07.png
+|   |   |       |       mis06_08.p3d
+|   |   |       |       mis06_08.png
+|   |   |       |       mis07_01.p3d
+|   |   |       |       mis07_01.png
+|   |   |       |       mis07_02.p3d
+|   |   |       |       mis07_02.png
+|   |   |       |       mis07_03.p3d
+|   |   |       |       mis07_03.png
+|   |   |       |       mis07_04.p3d
+|   |   |       |       mis07_04.png
+|   |   |       |       mis07_05.p3d
+|   |   |       |       mis07_05.png
+|   |   |       |       mis07_06.p3d
+|   |   |       |       mis07_06.png
+|   |   |       |       mis07_07.p3d
+|   |   |       |       mis07_07.png
+|   |   |       |       mis07_08.p3d
+|   |   |       |       mis07_08.png
+|   |   |       |
+|   |   |       \---skins2D
+|   |   |               a_american.p3d
+|   |   |               a_american.png
+|   |   |               a_army.p3d
+|   |   |               a_army.png
+|   |   |               a_besharp.p3d
+|   |   |               a_besharp.png
+|   |   |               a_military.p3d
+|   |   |               b_football.p3d
+|   |   |               b_football.png
+|   |   |               b_hugo.p3d
+|   |   |               b_hugo.png
+|   |   |               b_man.p3d
+|   |   |               b_man.png
+|   |   |               b_military.p3d
+|   |   |               b_military.png
+|   |   |               b_ninja.p3d
+|   |   |               b_ninja.png
+|   |   |               b_tall.p3d
+|   |   |               b_tall.png
+|   |   |               h_donut.p3d
+|   |   |               h_donut.png
+|   |   |               h_evil.p3d
+|   |   |               h_evil.png
+|   |   |               h_fat.p3d
+|   |   |               h_fat.png
+|   |   |               h_scuzzy.p3d
+|   |   |               h_scuzzy.png
+|   |   |               h_stcrobe.p3d
+|   |   |               h_stcrobe.png
+|   |   |               h_undrwr.p3d
+|   |   |               h_undrwr.png
+|   |   |               l_cool.p3d
+|   |   |               l_cool.png
+|   |   |               l_florida.p3d
+|   |   |               l_florida.png
+|   |   |               l_jersey.p3d
+|   |   |               l_jersey.png
+|   |   |               m_pink.p3d
+|   |   |               m_pink.png
+|   |   |               m_police.p3d
+|   |   |               m_police.png
+|   |   |               m_prison.p3d
+|   |   |               m_prison.png
+|   |   |               temp.err
+|   |   |
+|   |   +---scrooby
+|   |   |   |   backend.p3d
+|   |   |   |   bootup.p3d
+|   |   |   |   frontend.p3d
+|   |   |   |   ingame.p3d
+|   |   |   |   ingamel1.p3d
+|   |   |   |   ingamel2.p3d
+|   |   |   |   ingamel3.p3d
+|   |   |   |   ingamel4.p3d
+|   |   |   |   ingamel5.p3d
+|   |   |   |   ingamel6.p3d
+|   |   |   |   ingamel7.p3d
+|   |   |   |   language.p3d
+|   |   |   |   minigame.p3d
+|   |   |   |
+|   |   |   \---resource
+|   |   |       +---pure3d
+|   |   |       |   |   A.p3d
+|   |   |       |   |   camlight.p3d
+|   |   |       |   |   camset.p3d
+|   |   |       |   |   camset_C.p3d
+|   |   |       |   |   camset_H.p3d
+|   |   |       |   |   camset_T.p3d
+|   |   |       |   |   cardsfx.p3d
+|   |   |       |   |   curtainL.p3d
+|   |   |       |   |   curtainR.p3d
+|   |   |       |   |   gagbarne.p3d
+|   |   |       |   |   gagfrink.p3d
+|   |   |       |   |   gaggrand.p3d
+|   |   |       |   |   gaghomer.p3d
+|   |   |       |   |   gagmole.p3d
+|   |   |       |   |   gagnick.p3d
+|   |   |       |   |   gagsnake.p3d
+|   |   |       |   |   glowbook.p3d
+|   |   |       |   |   glowhomr.p3d
+|   |   |       |   |   glowkrusty.p3d
+|   |   |       |   |   glowmini.p3d
+|   |   |       |   |   glowsofa.p3d
+|   |   |       |   |   glowtv.p3d
+|   |   |       |   |   glowvcr.p3d
+|   |   |       |   |   glowwasp.p3d
+|   |   |       |   |   homer.p3d
+|   |   |       |   |   homer_C.p3d
+|   |   |       |   |   homer_H.p3d
+|   |   |       |   |   homer_T.p3d
+|   |   |       |   |   hudhole.p3d
+|   |   |       |   |   iris.p3d
+|   |   |       |   |   l1hudmap.p3d
+|   |   |       |   |   l2hudmap.p3d
+|   |   |       |   |   l3hudmap.p3d
+|   |   |       |   |   l4hudmap.p3d
+|   |   |       |   |   l5hudmap.p3d
+|   |   |       |   |   l6hudmap.p3d
+|   |   |       |   |   l7hudmap.p3d
+|   |   |       |   |   loading.p3d
+|   |   |       |   |   logo_anim.p3d
+|   |   |       |   |   maggie.p3d
+|   |   |       |   |   pedestal.p3d
+|   |   |       |   |   podium.p3d
+|   |   |       |   |   racecar.p3d
+|   |   |       |   |   rewardbg.p3d
+|   |   |       |   |   rewardfg.p3d
+|   |   |       |   |   sparkles.p3d
+|   |   |       |   |   star.p3d
+|   |   |       |   |   temp.err
+|   |   |       |   |   TVscreen.p3d
+|   |   |       |   |   X.p3d
+|   |   |       |   |
+|   |   |       |   \---_stubs
+|   |   |       |           dummy.p3d
+|   |   |       |           temp.err
+|   |   |       |
+|   |   |       \---txtbible
+|   |   |               srr2.p3d
+|   |   |
+|   |   \---scrooby2
+|   |       |   backend.p3d
+|   |       |   backend.prj
+|   |       |   bootup.p3d
+|   |       |   bootup.prj
+|   |       |   frontend.p3d
+|   |       |   frontend.prj
+|   |       |   ingame.p3d
+|   |       |   ingame.prj
+|   |       |   ingamel1.p3d
+|   |       |   ingamel1.prj
+|   |       |   ingamel2.p3d
+|   |       |   ingamel2.prj
+|   |       |   ingamel3.p3d
+|   |       |   ingamel3.prj
+|   |       |   ingamel4.p3d
+|   |       |   ingamel4.prj
+|   |       |   ingamel5.p3d
+|   |       |   ingamel5.prj
+|   |       |   ingamel6.p3d
+|   |       |   ingamel6.prj
+|   |       |   ingamel7.p3d
+|   |       |   ingamel7.prj
+|   |       |   language.p3d
+|   |       |   language.prj
+|   |       |   minigame.p3d
+|   |       |   minigame.prj
+|   |       |
+|   |       +---pages
+|   |       |       3dFE.pag
+|   |       |       3dFEGags.pag
+|   |       |       3dIris.pag
+|   |       |       Accept.pag
+|   |       |       Accept2.pag
+|   |       |       Accept3.pag
+|   |       |       Back.pag
+|   |       |       Back2.pag
+|   |       |       BigBoard.pag
+|   |       |       BlackBgd.pag
+|   |       |       Blank.pag
+|   |       |       BootupLoad.pag
+|   |       |       Buy.pag
+|   |       |       Cancel.pag
+|   |       |       CardGallery.pag
+|   |       |       CarSelect.pag
+|   |       |       CharacterControls.pag
+|   |       |       Cheats.pag
+|   |       |       Coins.pag
+|   |       |       Continue.pag
+|   |       |       Controller.pag
+|   |       |       ControllerGC.pag
+|   |       |       ControllerImage.pag
+|   |       |       ControllerImageS.pag
+|   |       |       ControllerPC.pag
+|   |       |       ControllerPS2.pag
+|   |       |       ControllerXBOX.pag
+|   |       |       COVER.pag
+|   |       |       CreditsBgd.pag
+|   |       |       CreditsFgd.pag
+|   |       |       CreditsKK.pag
+|   |       |       Demo.pag
+|   |       |       Display.pag
+|   |       |       ErrorPrompt.pag
+|   |       |       Explosion.pag
+|   |       |       FeDivide.pag
+|   |       |       GameSettings.pag
+|   |       |       GameSlots.pag
+|   |       |       GenericPrompt.pag
+|   |       |       HighResCard.pag
+|   |       |       Hud.pag
+|   |       |       HudBgd.pag
+|   |       |       HudHole.pag
+|   |       |       HudMap.pag
+|   |       |       IrisCover.pag
+|   |       |       Language.pag
+|   |       |       LetterBox.pag
+|   |       |       LetterBoxButtons.pag
+|   |       |       Level.pag
+|   |       |       Level1.pag
+|   |       |       Level2.pag
+|   |       |       Level3.pag
+|   |       |       Level4.pag
+|   |       |       Level5.pag
+|   |       |       Level6.pag
+|   |       |       Level7.pag
+|   |       |       LevelBar.pag
+|   |       |       LevelStats.pag
+|   |       |       LoadGame.pag
+|   |       |       Loading.pag
+|   |       |       LoadingFE.pag
+|   |       |       LoadingText.pag
+|   |       |       LowResCard.pag
+|   |       |       MainMenu.pag
+|   |       |       MemCardCheck.pag
+|   |       |       MemoryCard.pag
+|   |       |       Message.pag
+|   |       |       MessageBox.pag
+|   |       |       MiniHud.pag
+|   |       |       MiniMenu.pag
+|   |       |       MiniPause.pag
+|   |       |       MiniSummary.pag
+|   |       |       MissionGallery.pag
+|   |       |       MissionLoad.pag
+|   |       |       MissionOver.pag
+|   |       |       MissionSelect.pag
+|   |       |       MouseSettings.pag
+|   |       |       MultiChooseCharacter.pag
+|   |       |       MultiHud.pag
+|   |       |       MultiSetup.pag
+|   |       |       Options.pag
+|   |       |       Overlay.pag
+|   |       |       Pause.pag
+|   |       |       PauseBgd.pag
+|   |       |       PauseCards.pag
+|   |       |       PauseFgd.pag
+|   |       |       PauseMission.pag
+|   |       |       PauseMissionObjective.pag
+|   |       |       PauseOptions.pag
+|   |       |       PauseSettings.pag
+|   |       |       PauseSunday.pag
+|   |       |       PauseViewCards.pag
+|   |       |       PCGamepadConfig.pag
+|   |       |       PCKeyboardConfig.pag
+|   |       |       PhoneBooth.pag
+|   |       |       PlayMovie.pag
+|   |       |       Prompt.pag
+|   |       |       PurchaseRewards.pag
+|   |       |       Rewards.pag
+|   |       |       SAFEZONE.pag
+|   |       |       SaveGame.pag
+|   |       |       ScrapBook.pag
+|   |       |       ScrapBookContents.pag
+|   |       |       ScrapBookStats.pag
+|   |       |       SelectMemoryDevice.pag
+|   |       |       SkinGallery.pag
+|   |       |       SmallBoard.pag
+|   |       |       Sound.pag
+|   |       |       Splash.pag
+|   |       |       Tutorial.pag
+|   |       |       TVFrame.pag
+|   |       |       VehicleControls.pag
+|   |       |       VehicleGallery.pag
+|   |       |       ViewCard.pag
+|   |       |       ViewCredits.pag
+|   |       |       ViewMap.pag
+|   |       |       ViewMovies.pag
+|   |       |       WhiteCover.pag
+|   |       |       XSmallBoard.pag
+|   |       |
+|   |       +---resource
+|   |       |   |   language.p3d
+|   |       |   |
+|   |       |   +---fonts
+|   |       |   |       font0_16.p3d
+|   |       |   |       font0_24.p3d
+|   |       |   |       font1_14.p3d
+|   |       |   |       font2_12.p3d
+|   |       |   |       font3_12.p3d
+|   |       |   |
+|   |       |   +---images
+|   |       |   |   |   accept.png
+|   |       |   |   |   action.png
+|   |       |   |   |   auxX.png
+|   |       |   |   |   auxY.png
+|   |       |   |   |   back.png
+|   |       |   |   |   bigclip.png
+|   |       |   |   |   bullet.png
+|   |       |   |   |   but_actn.png
+|   |       |   |   |   but_brak.png
+|   |       |   |   |   but_dpad.png
+|   |       |   |   |   but_gas.png
+|   |       |   |   |   but_hand.png
+|   |       |   |   |   but_jump.png
+|   |       |   |   |   but_kick.png
+|   |       |   |   |   but_lths.png
+|   |       |   |   |   but_rths.png
+|   |       |   |   |   but_run.png
+|   |       |   |   |   coins.png
+|   |       |   |   |   controller.png
+|   |       |   |   |   controller_s.png
+|   |       |   |   |   dot.png
+|   |       |   |   |   error.png
+|   |       |   |   |   gamelogo.png
+|   |       |   |   |   headsetL.png
+|   |       |   |   |   headsetR.png
+|   |       |   |   |   infobars.png
+|   |       |   |   |   infobgd.png
+|   |       |   |   |   Larrow.png
+|   |       |   |   |   LArrowG.png
+|   |       |   |   |   license.png
+|   |       |   |   |   loadbgd0.png
+|   |       |   |   |   loadbgd1.png
+|   |       |   |   |   loading0.png
+|   |       |   |   |   loadovly.png
+|   |       |   |   |   Rarrow.png
+|   |       |   |   |   RArrowG.png
+|   |       |   |   |   triggerL.png
+|   |       |   |   |   triggerR.png
+|   |       |   |   |   tvframe.png
+|   |       |   |   |   tvglass.png
+|   |       |   |   |   tvglass1.png
+|   |       |   |   |   tvglass2.png
+|   |       |   |   |   walkie.png
+|   |       |   |   |   wave.png
+|   |       |   |   |
+|   |       |   |   +---cards
+|   |       |   |   |   |   bgdshdw.png
+|   |       |   |   |   |   cardgrey.png
+|   |       |   |   |   |   cardovly.png
+|   |       |   |   |   |   cardred.png
+|   |       |   |   |   |   cardredg.png
+|   |       |   |   |   |   cardsbgd.png
+|   |       |   |   |   |   cardshdw.png
+|   |       |   |   |   |   cardsh_t.png
+|   |       |   |   |   |   cardtag0.png
+|   |       |   |   |   |   cardtag1.png
+|   |       |   |   |   |   cardtag2.png
+|   |       |   |   |   |   cardtag3.png
+|   |       |   |   |   |   cardtag4.png
+|   |       |   |   |   |   cardtag5.png
+|   |       |   |   |   |   cardtag6.png
+|   |       |   |   |   |   cardyelg.png
+|   |       |   |   |   |   cardyell.png
+|   |       |   |   |   |   frame.png
+|   |       |   |   |   |   textbgd.png
+|   |       |   |   |   |   textshdw.png
+|   |       |   |   |   |
+|   |       |   |   |   +---db
+|   |       |   |   |   |   |   card00.png
+|   |       |   |   |   |   |   card00_t.png
+|   |       |   |   |   |   |   card01.png
+|   |       |   |   |   |   |   card01_t.png
+|   |       |   |   |   |   |   card02.png
+|   |       |   |   |   |   |   card02_t.png
+|   |       |   |   |   |   |   card03.png
+|   |       |   |   |   |   |   card03_t.png
+|   |       |   |   |   |   |   card04.png
+|   |       |   |   |   |   |   card04_t.png
+|   |       |   |   |   |   |   card05.png
+|   |       |   |   |   |   |   card05_t.png
+|   |       |   |   |   |   |   card06.png
+|   |       |   |   |   |   |   card06_t.png
+|   |       |   |   |   |   |   card07.png
+|   |       |   |   |   |   |   card07_t.png
+|   |       |   |   |   |   |   card08.png
+|   |       |   |   |   |   |   card08_t.png
+|   |       |   |   |   |   |   card09.png
+|   |       |   |   |   |   |   card09_t.png
+|   |       |   |   |   |   |   card10.png
+|   |       |   |   |   |   |   card10_t.png
+|   |       |   |   |   |   |   card11.png
+|   |       |   |   |   |   |   card11_t.png
+|   |       |   |   |   |   |   card12.png
+|   |       |   |   |   |   |   card12_t.png
+|   |       |   |   |   |   |   card13.png
+|   |       |   |   |   |   |   card13_t.png
+|   |       |   |   |   |   |   card14.png
+|   |       |   |   |   |   |   card14_t.png
+|   |       |   |   |   |   |   card15.png
+|   |       |   |   |   |   |   card15_t.png
+|   |       |   |   |   |   |   card16.png
+|   |       |   |   |   |   |   card16_t.png
+|   |       |   |   |   |   |   card17.png
+|   |       |   |   |   |   |   card17_t.png
+|   |       |   |   |   |   |   card18.png
+|   |       |   |   |   |   |   card18_t.png
+|   |       |   |   |   |   |   card19.png
+|   |       |   |   |   |   |   card19_t.png
+|   |       |   |   |   |   |   card20.png
+|   |       |   |   |   |   |   card20_t.png
+|   |       |   |   |   |   |   card21.png
+|   |       |   |   |   |   |   card21_t.png
+|   |       |   |   |   |   |   card22.png
+|   |       |   |   |   |   |   card22_t.png
+|   |       |   |   |   |   |   card23.png
+|   |       |   |   |   |   |   card23_t.png
+|   |       |   |   |   |   |   card24.png
+|   |       |   |   |   |   |   card24_t.png
+|   |       |   |   |   |   |   card25.png
+|   |       |   |   |   |   |   card25_t.png
+|   |       |   |   |   |   |   card26.png
+|   |       |   |   |   |   |   card26_t.png
+|   |       |   |   |   |   |   card27.png
+|   |       |   |   |   |   |   card27_t.png
+|   |       |   |   |   |   |   card28.png
+|   |       |   |   |   |   |   card28_t.png
+|   |       |   |   |   |   |   card29.png
+|   |       |   |   |   |   |   card29_t.png
+|   |       |   |   |   |   |   card30.png
+|   |       |   |   |   |   |   card30_t.png
+|   |       |   |   |   |   |   card31.png
+|   |       |   |   |   |   |   card31_t.png
+|   |       |   |   |   |   |   card32.png
+|   |       |   |   |   |   |   card32_t.png
+|   |       |   |   |   |   |   card33.png
+|   |       |   |   |   |   |   card33_t.png
+|   |       |   |   |   |   |   card34.png
+|   |       |   |   |   |   |   card34_t.png
+|   |       |   |   |   |   |   card35.png
+|   |       |   |   |   |   |   card35_t.png
+|   |       |   |   |   |   |   card36.png
+|   |       |   |   |   |   |   card36_t.png
+|   |       |   |   |   |   |   card37.png
+|   |       |   |   |   |   |   card37_t.png
+|   |       |   |   |   |   |   card38.png
+|   |       |   |   |   |   |   card38_t.png
+|   |       |   |   |   |   |   card39.png
+|   |       |   |   |   |   |   card39_t.png
+|   |       |   |   |   |   |   card40.png
+|   |       |   |   |   |   |   card40_t.png
+|   |       |   |   |   |   |   card41.png
+|   |       |   |   |   |   |   card41_t.png
+|   |       |   |   |   |   |   card42.png
+|   |       |   |   |   |   |   card42_t.png
+|   |       |   |   |   |   |   card43.png
+|   |       |   |   |   |   |   card43_t.png
+|   |       |   |   |   |   |   card44.png
+|   |       |   |   |   |   |   card44_t.png
+|   |       |   |   |   |   |   card45.png
+|   |       |   |   |   |   |   card45_t.png
+|   |       |   |   |   |   |   card46.png
+|   |       |   |   |   |   |   card46_t.png
+|   |       |   |   |   |   |   card47.png
+|   |       |   |   |   |   |   card47_t.png
+|   |       |   |   |   |   |   card48.png
+|   |       |   |   |   |   |   card48_t.png
+|   |       |   |   |   |   |   card49.png
+|   |       |   |   |   |   |   card49_t.png
+|   |       |   |   |   |   |   card50.png
+|   |       |   |   |   |   |   card50_t.png
+|   |       |   |   |   |   |   card51.png
+|   |       |   |   |   |   |   card51_t.png
+|   |       |   |   |   |   |   card52.png
+|   |       |   |   |   |   |   card52_t.png
+|   |       |   |   |   |   |   card53.png
+|   |       |   |   |   |   |   card53_t.png
+|   |       |   |   |   |   |   card54.png
+|   |       |   |   |   |   |   card54_t.png
+|   |       |   |   |   |   |   card55.png
+|   |       |   |   |   |   |   card55_t.png
+|   |       |   |   |   |   |
+|   |       |   |   |   |   \---_stubs
+|   |       |   |   |   |           card00_t.png
+|   |       |   |   |   |           card01_t.png
+|   |       |   |   |   |           card02_t.png
+|   |       |   |   |   |           card03_t.png
+|   |       |   |   |   |           card04_t.png
+|   |       |   |   |   |           card05_t.png
+|   |       |   |   |   |           card06_t.png
+|   |       |   |   |   |           card07_t.png
+|   |       |   |   |   |           card08_t.png
+|   |       |   |   |   |           card09_t.png
+|   |       |   |   |   |           card10_t.png
+|   |       |   |   |   |           card11_t.png
+|   |       |   |   |   |           card12_t.png
+|   |       |   |   |   |           card13_t.png
+|   |       |   |   |   |           card14_t.png
+|   |       |   |   |   |           card15_t.png
+|   |       |   |   |   |           card16_t.png
+|   |       |   |   |   |           card17_t.png
+|   |       |   |   |   |           card18_t.png
+|   |       |   |   |   |           card19_t.png
+|   |       |   |   |   |           card20_t.png
+|   |       |   |   |   |           card21_t.png
+|   |       |   |   |   |           card22_t.png
+|   |       |   |   |   |           card23_t.png
+|   |       |   |   |   |           card24_t.png
+|   |       |   |   |   |           card25_t.png
+|   |       |   |   |   |           card26_t.png
+|   |       |   |   |   |           card27_t.png
+|   |       |   |   |   |           card28_t.png
+|   |       |   |   |   |           card29_t.png
+|   |       |   |   |   |           card30_t.png
+|   |       |   |   |   |           card31_t.png
+|   |       |   |   |   |           card32_t.png
+|   |       |   |   |   |           card33_t.png
+|   |       |   |   |   |           card34_t.png
+|   |       |   |   |   |           card35_t.png
+|   |       |   |   |   |           card36_t.png
+|   |       |   |   |   |           card37_t.png
+|   |       |   |   |   |           card38_t.png
+|   |       |   |   |   |           card39_t.png
+|   |       |   |   |   |           card40_t.png
+|   |       |   |   |   |           card41_t.png
+|   |       |   |   |   |           card42_t.png
+|   |       |   |   |   |           card43_t.png
+|   |       |   |   |   |           card44_t.png
+|   |       |   |   |   |           card45_t.png
+|   |       |   |   |   |           card46_t.png
+|   |       |   |   |   |           card47_t.png
+|   |       |   |   |   |           card48_t.png
+|   |       |   |   |   |           card49_t.png
+|   |       |   |   |   |           card50_t.png
+|   |       |   |   |   |           card51_t.png
+|   |       |   |   |   |           card52_t.png
+|   |       |   |   |   |           card53_t.png
+|   |       |   |   |   |           card54_t.png
+|   |       |   |   |   |           card55_t.png
+|   |       |   |   |   |
+|   |       |   |   |   \---icons
+|   |       |   |   |           qannounc.png
+|   |       |   |   |           qapu.png
+|   |       |   |   |           qbart.png
+|   |       |   |   |           qbrockmn.png
+|   |       |   |   |           qburns.png
+|   |       |   |   |           qcarl.png
+|   |       |   |   |           qchild.png
+|   |       |   |   |           qdrwolff.png
+|   |       |   |   |           qgil.png
+|   |       |   |   |           qhomer.png
+|   |       |   |   |           qjasper.png
+|   |       |   |   |           qjimbo.png
+|   |       |   |   |           qkang.png
+|   |       |   |   |           qkrusty.png
+|   |       |   |   |           qlenny.png
+|   |       |   |   |           qlisa.png
+|   |       |   |   |           qmaggie.png
+|   |       |   |   |           qmanjula.png
+|   |       |   |   |           qmarge.png
+|   |       |   |   |           qmeyerjr.png
+|   |       |   |   |           qmilhous.png
+|   |       |   |   |           qmother.png
+|   |       |   |   |           qotto.png
+|   |       |   |   |           qphoto.png
+|   |       |   |   |           qralph.png
+|   |       |   |   |           qskinner.png
+|   |       |   |   |           qsmither.png
+|   |       |   |   |           qsparlke.png
+|   |       |   |   |           qstacy.png
+|   |       |   |   |           qwiggum.png
+|   |       |   |   |           qwillie.png
+|   |       |   |   |
+|   |       |   |   +---credits
+|   |       |   |   |       credits.png
+|   |       |   |   |       kang.png
+|   |       |   |   |       kodos.png
+|   |       |   |   |
+|   |       |   |   +---frame
+|   |       |   |   |       frame_b.png
+|   |       |   |   |       frame_bl.png
+|   |       |   |   |       frame_br.png
+|   |       |   |   |       frame_l.png
+|   |       |   |   |       frame_r.png
+|   |       |   |   |       frame_t.png
+|   |       |   |   |       frame_tl.png
+|   |       |   |   |       frame_tr.png
+|   |       |   |   |
+|   |       |   |   +---hud
+|   |       |   |   |   |   camera.png
+|   |       |   |   |   |   count1.png
+|   |       |   |   |   |   count2.png
+|   |       |   |   |   |   count3.png
+|   |       |   |   |   |   damage.png
+|   |       |   |   |   |   greenbar.png
+|   |       |   |   |   |   greybar.png
+|   |       |   |   |   |   helptext.png
+|   |       |   |   |   |   mapbgd.png
+|   |       |   |   |   |   mapframe.png
+|   |       |   |   |   |   mc_en.png
+|   |       |   |   |   |   mf_en.png
+|   |       |   |   |   |   nbt_en.png
+|   |       |   |   |   |   radar.png
+|   |       |   |   |   |   radartop.png
+|   |       |   |   |   |   redbar.png
+|   |       |   |   |   |   talking.png
+|   |       |   |   |   |   walkie.png
+|   |       |   |   |   |
+|   |       |   |   |   +---hitnrun
+|   |       |   |   |   |       hitnrun0.png
+|   |       |   |   |   |       hitnrun1.png
+|   |       |   |   |   |       hitnrun2.png
+|   |       |   |   |   |       hrmetter.png
+|   |       |   |   |   |       hrsector.png
+|   |       |   |   |   |       hrticket.png
+|   |       |   |   |   |       radar.png
+|   |       |   |   |   |       radartop.png
+|   |       |   |   |   |
+|   |       |   |   |   +---mapicons
+|   |       |   |   |   |       aicar.png
+|   |       |   |   |   |       blueflag.png
+|   |       |   |   |   |       bonus.png
+|   |       |   |   |   |       camicon.png
+|   |       |   |   |   |       checker.png
+|   |       |   |   |   |       collect.png
+|   |       |   |   |   |       dice.png
+|   |       |   |   |   |       dollar.png
+|   |       |   |   |   |       harascar.png
+|   |       |   |   |   |       mission.png
+|   |       |   |   |   |       phone.png
+|   |       |   |   |   |       user.png
+|   |       |   |   |   |
+|   |       |   |   |   \---textbox
+|   |       |   |   |           txtbox_l.png
+|   |       |   |   |           txtbox_r.png
+|   |       |   |   |
+|   |       |   |   +---icons
+|   |       |   |   |       check.png
+|   |       |   |   |       cross.png
+|   |       |   |   |       dash.png
+|   |       |   |   |
+|   |       |   |   +---letters
+|   |       |   |   |   |   0.png
+|   |       |   |   |   |   1.png
+|   |       |   |   |   |   2.png
+|   |       |   |   |   |   3.png
+|   |       |   |   |   |   4.png
+|   |       |   |   |   |   5.png
+|   |       |   |   |   |   6.png
+|   |       |   |   |   |   7.png
+|   |       |   |   |   |   8.png
+|   |       |   |   |   |   9.png
+|   |       |   |   |   |   colon.png
+|   |       |   |   |   |   comma.png
+|   |       |   |   |   |   exclamation-inverted.png
+|   |       |   |   |   |   exclamation.png
+|   |       |   |   |   |   hyphen.png
+|   |       |   |   |   |   letterA.png
+|   |       |   |   |   |   letterB.png
+|   |       |   |   |   |   letterC.png
+|   |       |   |   |   |   letterD.png
+|   |       |   |   |   |   letterE.png
+|   |       |   |   |   |   letterF.png
+|   |       |   |   |   |   letterG.png
+|   |       |   |   |   |   letterH.png
+|   |       |   |   |   |   letterI.png
+|   |       |   |   |   |   letterJ.png
+|   |       |   |   |   |   letterK.png
+|   |       |   |   |   |   letterL.png
+|   |       |   |   |   |   letterM.png
+|   |       |   |   |   |   letterN.png
+|   |       |   |   |   |   letterO.png
+|   |       |   |   |   |   letterP.png
+|   |       |   |   |   |   letterQ.png
+|   |       |   |   |   |   letterR.png
+|   |       |   |   |   |   letterS.png
+|   |       |   |   |   |   letterT.png
+|   |       |   |   |   |   letterU.png
+|   |       |   |   |   |   letterV.png
+|   |       |   |   |   |   letterW.png
+|   |       |   |   |   |   letterX.png
+|   |       |   |   |   |   letterY.png
+|   |       |   |   |   |   letterZ.png
+|   |       |   |   |   |   money.png
+|   |       |   |   |   |   period.png
+|   |       |   |   |   |   pound.png
+|   |       |   |   |   |   question.png
+|   |       |   |   |   |   slash.png
+|   |       |   |   |   |   space.png
+|   |       |   |   |   |   yquestion.png
+|   |       |   |   |   |
+|   |       |   |   |   \---extended
+|   |       |   |   |           A_Diaeresis.png
+|   |       |   |   |           E_Acute.png
+|   |       |   |   |           E_Circumflex.png
+|   |       |   |   |           I_Acute.png
+|   |       |   |   |           N_Tilde.png
+|   |       |   |   |           O_Acute.png
+|   |       |   |   |           O_Diaereris.png
+|   |       |   |   |           S_Sharp.png
+|   |       |   |   |           U_Acute.png
+|   |       |   |   |           U_Diaeresis.png
+|   |       |   |   |
+|   |       |   |   +---levelbar
+|   |       |   |   |       arrow_l.png
+|   |       |   |   |       arrow_r.png
+|   |       |   |   |       greybgd.png
+|   |       |   |   |       levelbar.png
+|   |       |   |   |       redbgd.png
+|   |       |   |   |
+|   |       |   |   +---loading
+|   |       |   |   |       bomb.png
+|   |       |   |   |       dynamite.png
+|   |       |   |   |       explode.png
+|   |       |   |   |       fire.png
+|   |       |   |   |       fire2.png
+|   |       |   |   |       rope.png
+|   |       |   |   |
+|   |       |   |   +---minigame
+|   |       |   |   |   |   charbgd.png
+|   |       |   |   |   |   kingicon.png
+|   |       |   |   |   |   playerbg.png
+|   |       |   |   |   |   track1.png
+|   |       |   |   |   |   track2.png
+|   |       |   |   |   |   track3.png
+|   |       |   |   |   |   track4.png
+|   |       |   |   |   |   track5.png
+|   |       |   |   |   |   track6.png
+|   |       |   |   |   |   track7.png
+|   |       |   |   |   |   trackCCW.png
+|   |       |   |   |   |   trackCW.png
+|   |       |   |   |   |
+|   |       |   |   |   +---chars
+|   |       |   |   |   |       apu.png
+|   |       |   |   |   |       apu_s.png
+|   |       |   |   |   |       bart.png
+|   |       |   |   |   |       bart_s.png
+|   |       |   |   |   |       homer.png
+|   |       |   |   |   |       homer_s.png
+|   |       |   |   |   |       lisa.png
+|   |       |   |   |   |       lisa_s.png
+|   |       |   |   |   |       marge.png
+|   |       |   |   |   |       marge_s.png
+|   |       |   |   |   |
+|   |       |   |   |   +---faces
+|   |       |   |   |   |       a_happy.png
+|   |       |   |   |   |       a_mad.png
+|   |       |   |   |   |       a_normal.png
+|   |       |   |   |   |       a_sad.png
+|   |       |   |   |   |       b_happy.png
+|   |       |   |   |   |       b_mad.png
+|   |       |   |   |   |       b_normal.png
+|   |       |   |   |   |       b_sad.png
+|   |       |   |   |   |       h_happy.png
+|   |       |   |   |   |       h_mad.png
+|   |       |   |   |   |       h_normal.png
+|   |       |   |   |   |       h_sad.png
+|   |       |   |   |   |       l_happy.png
+|   |       |   |   |   |       l_mad.png
+|   |       |   |   |   |       l_normal.png
+|   |       |   |   |   |       l_sad.png
+|   |       |   |   |   |       m_happy.png
+|   |       |   |   |   |       m_mad.png
+|   |       |   |   |   |       m_normal.png
+|   |       |   |   |   |       m_sad.png
+|   |       |   |   |   |
+|   |       |   |   |   +---stars
+|   |       |   |   |   |       S0.png
+|   |       |   |   |   |       S1.png
+|   |       |   |   |   |       S2.png
+|   |       |   |   |   |       S3.png
+|   |       |   |   |   |       S4.png
+|   |       |   |   |   |       S5.png
+|   |       |   |   |   |       S6.png
+|   |       |   |   |   |       S7.png
+|   |       |   |   |   |       S8.png
+|   |       |   |   |   |       S9.png
+|   |       |   |   |   |
+|   |       |   |   |   \---vehicles
+|   |       |   |   |           apu_v.png
+|   |       |   |   |           bart_v.png
+|   |       |   |   |           bbman_v.png
+|   |       |   |   |           bookb_v.png
+|   |       |   |   |           burns_v.png
+|   |       |   |   |           carhom_v.png
+|   |       |   |   |           cArmor.png
+|   |       |   |   |           cCola.png
+|   |       |   |   |           cCurator.png
+|   |       |   |   |           cDonut.png
+|   |       |   |   |           cDuff.png
+|   |       |   |   |           cFire_v.png
+|   |       |   |   |           cHears.png
+|   |       |   |   |           cKlimo.png
+|   |       |   |   |           cletu_v.png
+|   |       |   |   |           cLimo.png
+|   |       |   |   |           cNerd.png
+|   |       |   |   |           comic_v.png
+|   |       |   |   |           cPolice.png
+|   |       |   |   |           cSedan.png
+|   |       |   |   |           cVan.png
+|   |       |   |   |           elect_v.png
+|   |       |   |   |           famil_v.png
+|   |       |   |   |           fone_v.png
+|   |       |   |   |           frink_v.png
+|   |       |   |   |           gramp_v.png
+|   |       |   |   |           hbike_v.png
+|   |       |   |   |           homer_v.png
+|   |       |   |   |           honor_v.png
+|   |       |   |   |           krust_v.png
+|   |       |   |   |           lisa_v.png
+|   |       |   |   |           marge_v.png
+|   |       |   |   |           moe_v.png
+|   |       |   |   |           mrplo_v.png
+|   |       |   |   |           otto_v.png
+|   |       |   |   |           plowk_v.png
+|   |       |   |   |           scorp_v.png
+|   |       |   |   |           skinn_v.png
+|   |       |   |   |           smith_v.png
+|   |       |   |   |           snake_v.png
+|   |       |   |   |           wiggu_v.png
+|   |       |   |   |           willi_v.png
+|   |       |   |   |           zombi_v.png
+|   |       |   |   |
+|   |       |   |   +---missionloading
+|   |       |   |   |   |   background_blue.png
+|   |       |   |   |   |   bigstar.png
+|   |       |   |   |   |   Bullet_off.png
+|   |       |   |   |   |   Bullet_on.png
+|   |       |   |   |   |   checkflag.png
+|   |       |   |   |   |   Clip.png
+|   |       |   |   |   |   cliparm.png
+|   |       |   |   |   |   clipright.png
+|   |       |   |   |   |   corner1.png
+|   |       |   |   |   |   corner2.png
+|   |       |   |   |   |   corner3.png
+|   |       |   |   |   |   corner4.png
+|   |       |   |   |   |   Flag.png
+|   |       |   |   |   |   F_downPiece.png
+|   |       |   |   |   |   F_leftPiece.png
+|   |       |   |   |   |   F_rightPiece.png
+|   |       |   |   |   |   F_UpPiece.png
+|   |       |   |   |   |   glow1.png
+|   |       |   |   |   |   glow2.png
+|   |       |   |   |   |   level01.png
+|   |       |   |   |   |   level02.png
+|   |       |   |   |   |   level03.png
+|   |       |   |   |   |   level04.png
+|   |       |   |   |   |   level05.png
+|   |       |   |   |   |   level06.png
+|   |       |   |   |   |   level07.png
+|   |       |   |   |   |   level08.png
+|   |       |   |   |   |   level09.png
+|   |       |   |   |   |   shooting_star.png
+|   |       |   |   |   |   Star.png
+|   |       |   |   |   |   text_bar.png
+|   |       |   |   |   |
+|   |       |   |   |   \---_stubs
+|   |       |   |   |           level01.png
+|   |       |   |   |           level02.png
+|   |       |   |   |           level03.png
+|   |       |   |   |           level04.png
+|   |       |   |   |           level05.png
+|   |       |   |   |           level06.png
+|   |       |   |   |           level07.png
+|   |       |   |   |           level08.png
+|   |       |   |   |           level09.png
+|   |       |   |   |
+|   |       |   |   +---rewards
+|   |       |   |   |       carstar.png
+|   |       |   |   |       greystar.png
+|   |       |   |   |       halfstar.png
+|   |       |   |   |       husk.png
+|   |       |   |   |       Larrow0.png
+|   |       |   |   |       Larrow1.png
+|   |       |   |   |       lock.png
+|   |       |   |   |       pbglow.png
+|   |       |   |   |       pricetag.png
+|   |       |   |   |       Rarrow0.png
+|   |       |   |   |       Rarrow1.png
+|   |       |   |   |       rewardbg.png
+|   |       |   |   |
+|   |       |   |   +---scrapbook
+|   |       |   |   |   |   car-l1.png
+|   |       |   |   |   |   car-l2.png
+|   |       |   |   |   |   car-l3.png
+|   |       |   |   |   |   car-l4.png
+|   |       |   |   |   |   car-l5.png
+|   |       |   |   |   |   cards.png
+|   |       |   |   |   |   cursor.png
+|   |       |   |   |   |   ksticker.png
+|   |       |   |   |   |   movie-l1.png
+|   |       |   |   |   |   movie-l3.png
+|   |       |   |   |   |   msn-l1.png
+|   |       |   |   |   |   msn-l2.png
+|   |       |   |   |   |   msn-l3.png
+|   |       |   |   |   |   msn-l4.png
+|   |       |   |   |   |   msn-l5.png
+|   |       |   |   |   |   msn-l6.png
+|   |       |   |   |   |   msn-l7.png
+|   |       |   |   |   |   msnframe.png
+|   |       |   |   |   |   msnlockd.png
+|   |       |   |   |   |   sbcursor.png
+|   |       |   |   |   |   skin-l1.png
+|   |       |   |   |   |   skin-l2.png
+|   |       |   |   |   |   skin-l3.png
+|   |       |   |   |   |   skin-l4.png
+|   |       |   |   |   |   skin-l5.png
+|   |       |   |   |   |
+|   |       |   |   |   \---silhouet
+|   |       |   |   |           si_apu.png
+|   |       |   |   |           si_bart.png
+|   |       |   |   |           si_car.png
+|   |       |   |   |           si_homer.png
+|   |       |   |   |           si_lisa.png
+|   |       |   |   |           si_marge.png
+|   |       |   |   |
+|   |       |   |   +---sound
+|   |       |   |   |       effects.png
+|   |       |   |   |       mouse.png
+|   |       |   |   |       music.png
+|   |       |   |   |       nosound.png
+|   |       |   |   |       slider_g.png
+|   |       |   |   |       slider_gbig.png
+|   |       |   |   |       slider_p.png
+|   |       |   |   |       slider_pbig.png
+|   |       |   |   |       voice.png
+|   |       |   |   |
+|   |       |   |   \---tvframe
+|   |       |   |           tvframe_b.png
+|   |       |   |           tvframe_l.png
+|   |       |   |           tvframe_r.png
+|   |       |   |           tvframe_t.png
+|   |       |   |
+|   |       |   +---pure3d
+|   |       |   |   |   A.p3d
+|   |       |   |   |   camlight.p3d
+|   |       |   |   |   camset.p3d
+|   |       |   |   |   camset_C.p3d
+|   |       |   |   |   camset_H.p3d
+|   |       |   |   |   camset_T.p3d
+|   |       |   |   |   cardsfx.p3d
+|   |       |   |   |   curtainL.p3d
+|   |       |   |   |   curtainR.p3d
+|   |       |   |   |   gagbarne.p3d
+|   |       |   |   |   gagfrink.p3d
+|   |       |   |   |   gaggrand.p3d
+|   |       |   |   |   gaghomer.p3d
+|   |       |   |   |   gagmole.p3d
+|   |       |   |   |   gagnick.p3d
+|   |       |   |   |   gagsnake.p3d
+|   |       |   |   |   glowbook.p3d
+|   |       |   |   |   glowhomr.p3d
+|   |       |   |   |   glowkrusty.p3d
+|   |       |   |   |   glowmini.p3d
+|   |       |   |   |   glowsofa.p3d
+|   |       |   |   |   glowtv.p3d
+|   |       |   |   |   glowvcr.p3d
+|   |       |   |   |   glowwasp.p3d
+|   |       |   |   |   homer.p3d
+|   |       |   |   |   homer_C.p3d
+|   |       |   |   |   homer_H.p3d
+|   |       |   |   |   homer_T.p3d
+|   |       |   |   |   hudhole.p3d
+|   |       |   |   |   iris.p3d
+|   |       |   |   |   l1hudmap.p3d
+|   |       |   |   |   l2hudmap.p3d
+|   |       |   |   |   l3hudmap.p3d
+|   |       |   |   |   l4hudmap.p3d
+|   |       |   |   |   l5hudmap.p3d
+|   |       |   |   |   l6hudmap.p3d
+|   |       |   |   |   l7hudmap.p3d
+|   |       |   |   |   loading.p3d
+|   |       |   |   |   logo_anim.p3d
+|   |       |   |   |   maggie.p3d
+|   |       |   |   |   pedestal.p3d
+|   |       |   |   |   podium.p3d
+|   |       |   |   |   racecar.p3d
+|   |       |   |   |   rewardbg.p3d
+|   |       |   |   |   rewardfg.p3d
+|   |       |   |   |   sparkles.p3d
+|   |       |   |   |   star.p3d
+|   |       |   |   |   TVscreen.p3d
+|   |       |   |   |   X.p3d
+|   |       |   |   |
+|   |       |   |   \---_stubs
+|   |       |   |           dummy.p3d
+|   |       |   |
+|   |       |   +---txtbible
+|   |       |   |       credits.txt
+|   |       |   |       srr2.E
+|   |       |   |       srr2.F
+|   |       |   |       srr2.G
+|   |       |   |       srr2.I
+|   |       |   |       srr2.p3d
+|   |       |   |       srr2.S
+|   |       |   |       srr2.txt
+|   |       |   |       srr2.X
+|   |       |   |
+|   |       |   +---_backend
+|   |       |   |       bomb.p3d
+|   |       |   |       dynamite.p3d
+|   |       |   |       fire.p3d
+|   |       |   |       fire2.p3d
+|   |       |   |       font0_16.p3d
+|   |       |   |       loadbgd0.p3d
+|   |       |   |       loadbgd1.p3d
+|   |       |   |       loading0.p3d
+|   |       |   |
+|   |       |   +---_frontend
+|   |       |   |       accept.p3d
+|   |       |   |       auxX.p3d
+|   |       |   |       back.p3d
+|   |       |   |       car-l1.p3d
+|   |       |   |       car-l2.p3d
+|   |       |   |       car-l3.p3d
+|   |       |   |       car-l4.p3d
+|   |       |   |       car-l5.p3d
+|   |       |   |       card00.p3d
+|   |       |   |       card01.p3d
+|   |       |   |       card02.p3d
+|   |       |   |       card03.p3d
+|   |       |   |       card04.p3d
+|   |       |   |       card05.p3d
+|   |       |   |       card06.p3d
+|   |       |   |       card07.p3d
+|   |       |   |       card08.p3d
+|   |       |   |       card09.p3d
+|   |       |   |       card10.p3d
+|   |       |   |       card11.p3d
+|   |       |   |       card12.p3d
+|   |       |   |       card13.p3d
+|   |       |   |       card14.p3d
+|   |       |   |       card15.p3d
+|   |       |   |       card16.p3d
+|   |       |   |       card17.p3d
+|   |       |   |       card18.p3d
+|   |       |   |       card19.p3d
+|   |       |   |       card20.p3d
+|   |       |   |       card21.p3d
+|   |       |   |       card22.p3d
+|   |       |   |       card23.p3d
+|   |       |   |       card24.p3d
+|   |       |   |       card25.p3d
+|   |       |   |       card26.p3d
+|   |       |   |       card27.p3d
+|   |       |   |       card28.p3d
+|   |       |   |       card29.p3d
+|   |       |   |       card30.p3d
+|   |       |   |       card31.p3d
+|   |       |   |       card32.p3d
+|   |       |   |       card33.p3d
+|   |       |   |       card34.p3d
+|   |       |   |       card35.p3d
+|   |       |   |       card36.p3d
+|   |       |   |       card37.p3d
+|   |       |   |       card38.p3d
+|   |       |   |       card39.p3d
+|   |       |   |       card40.p3d
+|   |       |   |       card41.p3d
+|   |       |   |       card42.p3d
+|   |       |   |       card43.p3d
+|   |       |   |       card44.p3d
+|   |       |   |       card45.p3d
+|   |       |   |       card46.p3d
+|   |       |   |       card47.p3d
+|   |       |   |       card48.p3d
+|   |       |   |       card49.p3d
+|   |       |   |       card50.p3d
+|   |       |   |       card51.p3d
+|   |       |   |       card52.p3d
+|   |       |   |       card53.p3d
+|   |       |   |       card54.p3d
+|   |       |   |       card55.p3d
+|   |       |   |       cardgrey.p3d
+|   |       |   |       cards.p3d
+|   |       |   |       cardyell.p3d
+|   |       |   |       controller.p3d
+|   |       |   |       effects.p3d
+|   |       |   |       error.p3d
+|   |       |   |       font0_16.p3d
+|   |       |   |       font0_24.p3d
+|   |       |   |       font1_14.p3d
+|   |       |   |       font2_12.p3d
+|   |       |   |       font3_12.p3d
+|   |       |   |       frame.p3d
+|   |       |   |       frame_b.p3d
+|   |       |   |       frame_bl.p3d
+|   |       |   |       frame_br.p3d
+|   |       |   |       frame_l.p3d
+|   |       |   |       frame_r.p3d
+|   |       |   |       frame_t.p3d
+|   |       |   |       frame_tl.p3d
+|   |       |   |       frame_tr.p3d
+|   |       |   |       gamelogo.p3d
+|   |       |   |       ksticker.p3d
+|   |       |   |       Larrow.p3d
+|   |       |   |       LArrowG.p3d
+|   |       |   |       levelbar.p3d
+|   |       |   |       mouse.p3d
+|   |       |   |       movie-l1.p3d
+|   |       |   |       movie-l3.p3d
+|   |       |   |       msn-l1.p3d
+|   |       |   |       msn-l2.p3d
+|   |       |   |       msn-l3.p3d
+|   |       |   |       msn-l4.p3d
+|   |       |   |       msn-l5.p3d
+|   |       |   |       msn-l6.p3d
+|   |       |   |       msn-l7.p3d
+|   |       |   |       msnframe.p3d
+|   |       |   |       msnlockd.p3d
+|   |       |   |       music.p3d
+|   |       |   |       nosound.p3d
+|   |       |   |       qannounc.p3d
+|   |       |   |       qapu.p3d
+|   |       |   |       qbart.p3d
+|   |       |   |       qbrockmn.p3d
+|   |       |   |       qburns.p3d
+|   |       |   |       qcarl.p3d
+|   |       |   |       qchild.p3d
+|   |       |   |       qdrwolff.p3d
+|   |       |   |       qgil.p3d
+|   |       |   |       qhomer.p3d
+|   |       |   |       qjasper.p3d
+|   |       |   |       qjimbo.p3d
+|   |       |   |       qkang.p3d
+|   |       |   |       qkrusty.p3d
+|   |       |   |       qlenny.p3d
+|   |       |   |       qlisa.p3d
+|   |       |   |       qmaggie.p3d
+|   |       |   |       qmanjula.p3d
+|   |       |   |       qmarge.p3d
+|   |       |   |       qmeyerjr.p3d
+|   |       |   |       qmilhous.p3d
+|   |       |   |       qmother.p3d
+|   |       |   |       qotto.p3d
+|   |       |   |       qphoto.p3d
+|   |       |   |       qralph.p3d
+|   |       |   |       qskinner.p3d
+|   |       |   |       qsmither.p3d
+|   |       |   |       qsparlke.p3d
+|   |       |   |       qstacy.p3d
+|   |       |   |       qwiggum.p3d
+|   |       |   |       qwillie.p3d
+|   |       |   |       Rarrow.p3d
+|   |       |   |       RArrowG.p3d
+|   |       |   |       sbcursor.p3d
+|   |       |   |       si_apu.p3d
+|   |       |   |       si_bart.p3d
+|   |       |   |       si_car.p3d
+|   |       |   |       si_homer.p3d
+|   |       |   |       si_lisa.p3d
+|   |       |   |       si_marge.p3d
+|   |       |   |       skin-l1.p3d
+|   |       |   |       skin-l2.p3d
+|   |       |   |       skin-l3.p3d
+|   |       |   |       skin-l4.p3d
+|   |       |   |       skin-l5.p3d
+|   |       |   |       slider_g.p3d
+|   |       |   |       slider_gbig.p3d
+|   |       |   |       slider_p.p3d
+|   |       |   |       slider_pbig.p3d
+|   |       |   |       triggerL.p3d
+|   |       |   |       triggerR.p3d
+|   |       |   |       tvframe.p3d
+|   |       |   |       tvglass1.p3d
+|   |       |   |       tvglass2.p3d
+|   |       |   |       voice.p3d
+|   |       |   |
+|   |       |   +---_ingame
+|   |       |   |       0.p3d
+|   |       |   |       1.p3d
+|   |       |   |       2.p3d
+|   |       |   |       3.p3d
+|   |       |   |       4.p3d
+|   |       |   |       5.p3d
+|   |       |   |       6.p3d
+|   |       |   |       7.p3d
+|   |       |   |       8.p3d
+|   |       |   |       9.p3d
+|   |       |   |       accept.p3d
+|   |       |   |       action.p3d
+|   |       |   |       aicar.p3d
+|   |       |   |       auxX.p3d
+|   |       |   |       A_Diaeresis.p3d
+|   |       |   |       back.p3d
+|   |       |   |       blueflag.p3d
+|   |       |   |       bonus.p3d
+|   |       |   |       but_actn.p3d
+|   |       |   |       but_brak.p3d
+|   |       |   |       but_dpad.p3d
+|   |       |   |       but_gas.p3d
+|   |       |   |       but_hand.p3d
+|   |       |   |       but_jump.p3d
+|   |       |   |       but_kick.p3d
+|   |       |   |       but_lths.p3d
+|   |       |   |       but_rths.p3d
+|   |       |   |       but_run.p3d
+|   |       |   |       card00_t.p3d
+|   |       |   |       card01_t.p3d
+|   |       |   |       card02_t.p3d
+|   |       |   |       card03_t.p3d
+|   |       |   |       card04_t.p3d
+|   |       |   |       card05_t.p3d
+|   |       |   |       card06_t.p3d
+|   |       |   |       card07_t.p3d
+|   |       |   |       card08_t.p3d
+|   |       |   |       card09_t.p3d
+|   |       |   |       card10_t.p3d
+|   |       |   |       card11_t.p3d
+|   |       |   |       card12_t.p3d
+|   |       |   |       card13_t.p3d
+|   |       |   |       card14_t.p3d
+|   |       |   |       card15_t.p3d
+|   |       |   |       card16_t.p3d
+|   |       |   |       card17_t.p3d
+|   |       |   |       card18_t.p3d
+|   |       |   |       card19_t.p3d
+|   |       |   |       card20_t.p3d
+|   |       |   |       card21_t.p3d
+|   |       |   |       card22_t.p3d
+|   |       |   |       card23_t.p3d
+|   |       |   |       card24_t.p3d
+|   |       |   |       card25_t.p3d
+|   |       |   |       card26_t.p3d
+|   |       |   |       card27_t.p3d
+|   |       |   |       card28_t.p3d
+|   |       |   |       card29_t.p3d
+|   |       |   |       card30_t.p3d
+|   |       |   |       card31_t.p3d
+|   |       |   |       card32_t.p3d
+|   |       |   |       card33_t.p3d
+|   |       |   |       card34_t.p3d
+|   |       |   |       card35_t.p3d
+|   |       |   |       card36_t.p3d
+|   |       |   |       card37_t.p3d
+|   |       |   |       card38_t.p3d
+|   |       |   |       card39_t.p3d
+|   |       |   |       card40_t.p3d
+|   |       |   |       card41_t.p3d
+|   |       |   |       card42_t.p3d
+|   |       |   |       card43_t.p3d
+|   |       |   |       card44_t.p3d
+|   |       |   |       card45_t.p3d
+|   |       |   |       card46_t.p3d
+|   |       |   |       card47_t.p3d
+|   |       |   |       card48_t.p3d
+|   |       |   |       card49_t.p3d
+|   |       |   |       card50_t.p3d
+|   |       |   |       card51_t.p3d
+|   |       |   |       card52_t.p3d
+|   |       |   |       card53_t.p3d
+|   |       |   |       card54_t.p3d
+|   |       |   |       card55_t.p3d
+|   |       |   |       cardgrey.p3d
+|   |       |   |       cardyell.p3d
+|   |       |   |       carstar.p3d
+|   |       |   |       check.p3d
+|   |       |   |       checker.p3d
+|   |       |   |       checkflag.p3d
+|   |       |   |       Clip.p3d
+|   |       |   |       cliparm.p3d
+|   |       |   |       clipright.p3d
+|   |       |   |       coins.p3d
+|   |       |   |       collect.p3d
+|   |       |   |       colon.p3d
+|   |       |   |       comma.p3d
+|   |       |   |       corner1.p3d
+|   |       |   |       corner2.p3d
+|   |       |   |       corner3.p3d
+|   |       |   |       corner4.p3d
+|   |       |   |       cross.p3d
+|   |       |   |       damage.p3d
+|   |       |   |       dash.p3d
+|   |       |   |       dice.p3d
+|   |       |   |       dollar.p3d
+|   |       |   |       dot.p3d
+|   |       |   |       effects.p3d
+|   |       |   |       error.p3d
+|   |       |   |       exclamation-inverted.p3d
+|   |       |   |       exclamation.p3d
+|   |       |   |       E_Acute.p3d
+|   |       |   |       E_Circumflex.p3d
+|   |       |   |       font0_16.p3d
+|   |       |   |       font0_24.p3d
+|   |       |   |       font1_14.p3d
+|   |       |   |       font2_12.p3d
+|   |       |   |       frame.p3d
+|   |       |   |       frame_b.p3d
+|   |       |   |       frame_bl.p3d
+|   |       |   |       frame_br.p3d
+|   |       |   |       frame_l.p3d
+|   |       |   |       frame_r.p3d
+|   |       |   |       frame_t.p3d
+|   |       |   |       frame_tl.p3d
+|   |       |   |       frame_tr.p3d
+|   |       |   |       F_downPiece.p3d
+|   |       |   |       F_leftPiece.p3d
+|   |       |   |       F_rightPiece.p3d
+|   |       |   |       F_UpPiece.p3d
+|   |       |   |       greybar.p3d
+|   |       |   |       greybgd.p3d
+|   |       |   |       greystar.p3d
+|   |       |   |       halfstar.p3d
+|   |       |   |       helptext.p3d
+|   |       |   |       hitnrun0.p3d
+|   |       |   |       hitnrun1.p3d
+|   |       |   |       hitnrun2.p3d
+|   |       |   |       hrmetter.p3d
+|   |       |   |       hrsector.p3d
+|   |       |   |       hrticket.p3d
+|   |       |   |       husk.p3d
+|   |       |   |       hyphen.p3d
+|   |       |   |       I_Acute.p3d
+|   |       |   |       Larrow.p3d
+|   |       |   |       Larrow0.p3d
+|   |       |   |       Larrow1.p3d
+|   |       |   |       LArrowG.p3d
+|   |       |   |       letterA.p3d
+|   |       |   |       letterB.p3d
+|   |       |   |       letterC.p3d
+|   |       |   |       letterD.p3d
+|   |       |   |       letterE.p3d
+|   |       |   |       letterF.p3d
+|   |       |   |       letterG.p3d
+|   |       |   |       letterH.p3d
+|   |       |   |       letterI.p3d
+|   |       |   |       letterJ.p3d
+|   |       |   |       letterK.p3d
+|   |       |   |       letterL.p3d
+|   |       |   |       letterM.p3d
+|   |       |   |       letterN.p3d
+|   |       |   |       letterO.p3d
+|   |       |   |       letterP.p3d
+|   |       |   |       letterQ.p3d
+|   |       |   |       letterR.p3d
+|   |       |   |       letterS.p3d
+|   |       |   |       letterT.p3d
+|   |       |   |       letterU.p3d
+|   |       |   |       letterV.p3d
+|   |       |   |       letterW.p3d
+|   |       |   |       letterX.p3d
+|   |       |   |       letterY.p3d
+|   |       |   |       letterZ.p3d
+|   |       |   |       levelbar.p3d
+|   |       |   |       lock.p3d
+|   |       |   |       mission.p3d
+|   |       |   |       money.p3d
+|   |       |   |       music.p3d
+|   |       |   |       nosound.p3d
+|   |       |   |       N_Tilde.p3d
+|   |       |   |       O_Acute.p3d
+|   |       |   |       O_Diaereris.p3d
+|   |       |   |       pbglow.p3d
+|   |       |   |       period.p3d
+|   |       |   |       phone.p3d
+|   |       |   |       qannounc.p3d
+|   |       |   |       qapu.p3d
+|   |       |   |       qbart.p3d
+|   |       |   |       qbrockmn.p3d
+|   |       |   |       qburns.p3d
+|   |       |   |       qcarl.p3d
+|   |       |   |       qchild.p3d
+|   |       |   |       qdrwolff.p3d
+|   |       |   |       qgil.p3d
+|   |       |   |       qhomer.p3d
+|   |       |   |       qjasper.p3d
+|   |       |   |       qjimbo.p3d
+|   |       |   |       qkang.p3d
+|   |       |   |       qkrusty.p3d
+|   |       |   |       qlenny.p3d
+|   |       |   |       qlisa.p3d
+|   |       |   |       qmaggie.p3d
+|   |       |   |       qmanjula.p3d
+|   |       |   |       qmarge.p3d
+|   |       |   |       qmeyerjr.p3d
+|   |       |   |       qmilhous.p3d
+|   |       |   |       qmother.p3d
+|   |       |   |       qotto.p3d
+|   |       |   |       qphoto.p3d
+|   |       |   |       qralph.p3d
+|   |       |   |       qskinner.p3d
+|   |       |   |       qsmither.p3d
+|   |       |   |       qsparlke.p3d
+|   |       |   |       qstacy.p3d
+|   |       |   |       question.p3d
+|   |       |   |       qwiggum.p3d
+|   |       |   |       qwillie.p3d
+|   |       |   |       radar.p3d
+|   |       |   |       radartop.p3d
+|   |       |   |       Rarrow.p3d
+|   |       |   |       Rarrow0.p3d
+|   |       |   |       Rarrow1.p3d
+|   |       |   |       RArrowG.p3d
+|   |       |   |       redbgd.p3d
+|   |       |   |       slash.p3d
+|   |       |   |       slider_g.p3d
+|   |       |   |       slider_p.p3d
+|   |       |   |       space.p3d
+|   |       |   |       S_Sharp.p3d
+|   |       |   |       user.p3d
+|   |       |   |       U_Acute.p3d
+|   |       |   |       U_Diaeresis.p3d
+|   |       |   |       voice.p3d
+|   |       |   |       walkie.p3d
+|   |       |   |       yquestion.p3d
+|   |       |   |
+|   |       |   +---_ingamel1
+|   |       |   |       card00_t.p3d
+|   |       |   |       card01_t.p3d
+|   |       |   |       card02_t.p3d
+|   |       |   |       card03_t.p3d
+|   |       |   |       card04_t.p3d
+|   |       |   |       card05_t.p3d
+|   |       |   |       card06_t.p3d
+|   |       |   |       card07_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel2
+|   |       |   |       card08_t.p3d
+|   |       |   |       card09_t.p3d
+|   |       |   |       card10_t.p3d
+|   |       |   |       card11_t.p3d
+|   |       |   |       card12_t.p3d
+|   |       |   |       card13_t.p3d
+|   |       |   |       card14_t.p3d
+|   |       |   |       card15_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel3
+|   |       |   |       card16_t.p3d
+|   |       |   |       card17_t.p3d
+|   |       |   |       card18_t.p3d
+|   |       |   |       card19_t.p3d
+|   |       |   |       card20_t.p3d
+|   |       |   |       card21_t.p3d
+|   |       |   |       card22_t.p3d
+|   |       |   |       card23_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel4
+|   |       |   |       card24_t.p3d
+|   |       |   |       card25_t.p3d
+|   |       |   |       card26_t.p3d
+|   |       |   |       card27_t.p3d
+|   |       |   |       card28_t.p3d
+|   |       |   |       card29_t.p3d
+|   |       |   |       card30_t.p3d
+|   |       |   |       card31_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel5
+|   |       |   |       card32_t.p3d
+|   |       |   |       card33_t.p3d
+|   |       |   |       card34_t.p3d
+|   |       |   |       card35_t.p3d
+|   |       |   |       card36_t.p3d
+|   |       |   |       card37_t.p3d
+|   |       |   |       card38_t.p3d
+|   |       |   |       card39_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel6
+|   |       |   |       card40_t.p3d
+|   |       |   |       card41_t.p3d
+|   |       |   |       card42_t.p3d
+|   |       |   |       card43_t.p3d
+|   |       |   |       card44_t.p3d
+|   |       |   |       card45_t.p3d
+|   |       |   |       card46_t.p3d
+|   |       |   |       card47_t.p3d
+|   |       |   |
+|   |       |   +---_ingamel7
+|   |       |   |       card48_t.p3d
+|   |       |   |       card49_t.p3d
+|   |       |   |       card50_t.p3d
+|   |       |   |       card51_t.p3d
+|   |       |   |       card52_t.p3d
+|   |       |   |       card53_t.p3d
+|   |       |   |       card54_t.p3d
+|   |       |   |       card55_t.p3d
+|   |       |   |
+|   |       |   +---_language
+|   |       |   |       accept.p3d
+|   |       |   |       error.p3d
+|   |       |   |       font0_16.p3d
+|   |       |   |       font1_14.p3d
+|   |       |   |       frame_b.p3d
+|   |       |   |       frame_bl.p3d
+|   |       |   |       frame_br.p3d
+|   |       |   |       frame_l.p3d
+|   |       |   |       frame_r.p3d
+|   |       |   |       frame_t.p3d
+|   |       |   |       frame_tl.p3d
+|   |       |   |       frame_tr.p3d
+|   |       |   |
+|   |       |   \---_minigame
+|   |       |           accept.p3d
+|   |       |           apu.p3d
+|   |       |           apu_s.p3d
+|   |       |           apu_v.p3d
+|   |       |           auxX.p3d
+|   |       |           a_happy.p3d
+|   |       |           a_mad.p3d
+|   |       |           a_normal.p3d
+|   |       |           a_sad.p3d
+|   |       |           back.p3d
+|   |       |           bart.p3d
+|   |       |           bart_s.p3d
+|   |       |           bart_v.p3d
+|   |       |           bbman_v.p3d
+|   |       |           bookb_v.p3d
+|   |       |           burns_v.p3d
+|   |       |           b_happy.p3d
+|   |       |           b_mad.p3d
+|   |       |           b_normal.p3d
+|   |       |           b_sad.p3d
+|   |       |           carhom_v.p3d
+|   |       |           cArmor.p3d
+|   |       |           cCola.p3d
+|   |       |           cCurator.p3d
+|   |       |           cDonut.p3d
+|   |       |           cDuff.p3d
+|   |       |           cFire_v.p3d
+|   |       |           charbgd.p3d
+|   |       |           cHears.p3d
+|   |       |           cKlimo.p3d
+|   |       |           cletu_v.p3d
+|   |       |           cLimo.p3d
+|   |       |           cNerd.p3d
+|   |       |           comic_v.p3d
+|   |       |           cPolice.p3d
+|   |       |           cSedan.p3d
+|   |       |           cVan.p3d
+|   |       |           elect_v.p3d
+|   |       |           error.p3d
+|   |       |           famil_v.p3d
+|   |       |           fone_v.p3d
+|   |       |           font0_16.p3d
+|   |       |           font1_14.p3d
+|   |       |           frame_b.p3d
+|   |       |           frame_bl.p3d
+|   |       |           frame_br.p3d
+|   |       |           frame_l.p3d
+|   |       |           frame_r.p3d
+|   |       |           frame_t.p3d
+|   |       |           frame_tl.p3d
+|   |       |           frame_tr.p3d
+|   |       |           frink_v.p3d
+|   |       |           gramp_v.p3d
+|   |       |           hbike_v.p3d
+|   |       |           homer.p3d
+|   |       |           homer_s.p3d
+|   |       |           homer_v.p3d
+|   |       |           honor_v.p3d
+|   |       |           h_happy.p3d
+|   |       |           h_mad.p3d
+|   |       |           h_normal.p3d
+|   |       |           h_sad.p3d
+|   |       |           kingicon.p3d
+|   |       |           krust_v.p3d
+|   |       |           Larrow.p3d
+|   |       |           LArrowG.p3d
+|   |       |           lisa.p3d
+|   |       |           lisa_s.p3d
+|   |       |           lisa_v.p3d
+|   |       |           l_happy.p3d
+|   |       |           l_mad.p3d
+|   |       |           l_normal.p3d
+|   |       |           l_sad.p3d
+|   |       |           marge.p3d
+|   |       |           marge_s.p3d
+|   |       |           marge_v.p3d
+|   |       |           moe_v.p3d
+|   |       |           mrplo_v.p3d
+|   |       |           m_happy.p3d
+|   |       |           m_mad.p3d
+|   |       |           m_normal.p3d
+|   |       |           m_sad.p3d
+|   |       |           otto_v.p3d
+|   |       |           playerbg.p3d
+|   |       |           plowk_v.p3d
+|   |       |           Rarrow.p3d
+|   |       |           RArrowG.p3d
+|   |       |           S0.p3d
+|   |       |           S1.p3d
+|   |       |           S2.p3d
+|   |       |           S3.p3d
+|   |       |           S4.p3d
+|   |       |           S5.p3d
+|   |       |           S6.p3d
+|   |       |           S7.p3d
+|   |       |           S8.p3d
+|   |       |           S9.p3d
+|   |       |           scorp_v.p3d
+|   |       |           skinn_v.p3d
+|   |       |           smith_v.p3d
+|   |       |           snake_v.p3d
+|   |       |           track1.p3d
+|   |       |           track2.p3d
+|   |       |           track3.p3d
+|   |       |           track4.p3d
+|   |       |           track5.p3d
+|   |       |           track6.p3d
+|   |       |           track7.p3d
+|   |       |           trackCCW.p3d
+|   |       |           trackCW.p3d
+|   |       |           wiggu_v.p3d
+|   |       |           willi_v.p3d
+|   |       |           zombi_v.p3d
+|   |       |
+|   |       \---screens
+|   |               Blank.scr
+|   |               BootupLoad.scr
+|   |               CardGallery.scr
+|   |               Controller.scr
+|   |               CreditsPostFMV.scr
+|   |               Demo.scr
+|   |               Display.scr
+|   |               ErrorPrompt.scr
+|   |               ErrorPrompt3D.scr
+|   |               Hud.scr
+|   |               IrisWipe.scr
+|   |               Language.scr
+|   |               LetterBox.scr
+|   |               Level1.scr
+|   |               Level2.scr
+|   |               Level3.scr
+|   |               Level4.scr
+|   |               Level5.scr
+|   |               Level6.scr
+|   |               Level7.scr
+|   |               LevelEnd.scr
+|   |               LevelStats.scr
+|   |               License.scr
+|   |               LoadGame.scr
+|   |               Loading.scr
+|   |               LoadingFE.scr
+|   |               MainMenu.scr
+|   |               MemCardCheck.scr
+|   |               MemoryCard.scr
+|   |               MemoryCard3D.scr
+|   |               Message.scr
+|   |               Message3D.scr
+|   |               MiniHud.scr
+|   |               MiniMenu.scr
+|   |               MiniPause.scr
+|   |               MiniSummary.scr
+|   |               MissionGallery.scr
+|   |               MissionLoad.scr
+|   |               MissionOver.scr
+|   |               MissionSelect.scr
+|   |               MultiChooseCharacter.scr
+|   |               MultiHud.scr
+|   |               MultiSetup.scr
+|   |               Options.scr
+|   |               PauseController.scr
+|   |               PauseMission.scr
+|   |               PauseOptions.scr
+|   |               PauseSettings.scr
+|   |               PauseSound.scr
+|   |               PauseSunday.scr
+|   |               PauseViewCards.scr
+|   |               PhoneBooth.scr
+|   |               PlayMovie.scr
+|   |               Prompt.scr
+|   |               Prompt3D.scr
+|   |               PurchaseRewards.scr
+|   |               SaveGame.scr
+|   |               ScrapBook.scr
+|   |               ScrapBookContents.scr
+|   |               ScrapBookStats.scr
+|   |               SkinGallery.scr
+|   |               Sound.scr
+|   |               Splash.scr
+|   |               Tutorial.scr
+|   |               VehicleGallery.scr
+|   |               ViewCredits.scr
+|   |               ViewMap.scr
+|   |               ViewMovies.scr
+|   |
+|   +---missions
+|   |   +---generic
+|   |   |       ad_door.p3d
+|   |   |       bar_door.p3d
+|   |   |       dmv_door.p3d
+|   |   |       fflag.p3d
+|   |   |       fline.p3d
+|   |   |       kwk_door.p3d
+|   |   |       miniarrow1.p3d
+|   |   |       minigamecam.p3d
+|   |   |       missgen.p3d
+|   |   |       moe_door.p3d
+|   |   |       nitro.p3d
+|   |   |       obs_door.p3d
+|   |   |       sch_door.p3d
+|   |   |       sim_door.p3d
+|   |   |       wflag.p3d
+|   |   |
+|   |   +---h2h
+|   |   |       flag.p3d
+|   |   |       h2h1.p3d
+|   |   |
+|   |   +---level01
+|   |   |       bm1.p3d
+|   |   |       bonebox.p3d
+|   |   |       boxexpld.p3d
+|   |   |       coolr.p3d
+|   |   |       demo.p3d
+|   |   |       democams.p3d
+|   |   |       flanpic.p3d
+|   |   |       gr1.p3d
+|   |   |       h_soda.p3d
+|   |   |       ibucket.p3d
+|   |   |       inhaler.p3d
+|   |   |       i_soda.p3d
+|   |   |       jumps.p3d
+|   |   |       l1_doors.p3d
+|   |   |       level.p3d
+|   |   |       lwnchair.p3d
+|   |   |       m0.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission0cam.p3d
+|   |   |       mission1cam.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission4cam.p3d
+|   |   |       mission6cam.p3d
+|   |   |       mission7cam.p3d
+|   |   |       mower.p3d
+|   |   |       poster_t.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       scien.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       tomat.p3d
+|   |   |       tux.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level02
+|   |   |       blend.p3d
+|   |   |       bloodbag.p3d
+|   |   |       bm1.p3d
+|   |   |       demo.p3d
+|   |   |       democams.p3d
+|   |   |       firewrks.p3d
+|   |   |       gr1.p3d
+|   |   |       i_bldbag.p3d
+|   |   |       i_firewk.p3d
+|   |   |       jumps.p3d
+|   |   |       l2_doors.p3d
+|   |   |       level.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission1cam.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission4cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       mission6cam.p3d
+|   |   |       monkey.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       radio.p3d
+|   |   |       roadkill.p3d
+|   |   |       satellite.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level03
+|   |   |       bm1.p3d
+|   |   |       carfish.p3d
+|   |   |       cream.p3d
+|   |   |       demo.p3d
+|   |   |       democams.p3d
+|   |   |       diaper.p3d
+|   |   |       fish.p3d
+|   |   |       gr1.p3d
+|   |   |       h_soda.p3d
+|   |   |       ismovie.p3d
+|   |   |       is_comic.p3d
+|   |   |       jeans.p3d
+|   |   |       jumps.p3d
+|   |   |       kmeal.p3d
+|   |   |       l3_doors.p3d
+|   |   |       laundry.p3d
+|   |   |       level.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission1cam.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission4cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       mission6cam.p3d
+|   |   |       molemanr.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       rhat.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level04
+|   |   |       bm1.p3d
+|   |   |       cola.p3d
+|   |   |       cpill.p3d
+|   |   |       demo.p3d
+|   |   |       donut.p3d
+|   |   |       gr1.p3d
+|   |   |       i_cpill.p3d
+|   |   |       ketchup.p3d
+|   |   |       l4_doors.p3d
+|   |   |       level.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission4cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       mission6cam.p3d
+|   |   |       mission7cam.p3d
+|   |   |       pills.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       r_choco.p3d
+|   |   |       r_dent.p3d
+|   |   |       r_diaper.p3d
+|   |   |       r_onions.p3d
+|   |   |       r_tomb.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level05
+|   |   |       bm1.p3d
+|   |   |       demo.p3d
+|   |   |       folder.p3d
+|   |   |       gr1.p3d
+|   |   |       i_folder.p3d
+|   |   |       key.p3d
+|   |   |       level.p3d
+|   |   |       litter.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission1cam.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       mission7cam.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       sr4.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level06
+|   |   |       bm1.p3d
+|   |   |       demo.p3d
+|   |   |       gr1.p3d
+|   |   |       laserbox.p3d
+|   |   |       lasergun.p3d
+|   |   |       lasrstnd.p3d
+|   |   |       level.p3d
+|   |   |       lsrexpld.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       mission1cam.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission4cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       mission6cam.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       s_boy1.p3d
+|   |   |       s_boy2.p3d
+|   |   |       s_girl1.p3d
+|   |   |       s_girl2.p3d
+|   |   |       wasps.p3d
+|   |   |
+|   |   +---level07
+|   |   |       bm1.p3d
+|   |   |       bombbarrel.p3d
+|   |   |       demo.p3d
+|   |   |       gr1.p3d
+|   |   |       level.p3d
+|   |   |       m1.p3d
+|   |   |       m2.p3d
+|   |   |       m3.p3d
+|   |   |       m4.p3d
+|   |   |       m5.p3d
+|   |   |       m6.p3d
+|   |   |       m7.p3d
+|   |   |       map.p3d
+|   |   |       medkit.p3d
+|   |   |       mission2cam.p3d
+|   |   |       mission3cam.p3d
+|   |   |       mission5cam.p3d
+|   |   |       race1cam.p3d
+|   |   |       race2cam.p3d
+|   |   |       race3cam.p3d
+|   |   |       race4cam.p3d
+|   |   |       record.p3d
+|   |   |       saw.p3d
+|   |   |       sockg.p3d
+|   |   |       sr1.p3d
+|   |   |       sr2.p3d
+|   |   |       sr3.p3d
+|   |   |       tooth.p3d
+|   |   |       UFO.p3d
+|   |   |       ufobeam.p3d
+|   |   |       wasps.p3d
+|   |   |       wplanks.p3d
+|   |   |
+|   |   \---level08
+|   |           chkpts.p3d
+|   |           m1.p3d
+|   |
+|   \---nis
+|       \---gags
+|               gag0000.p3d
+|               gag0001.p3d
+|               gag0002.p3d
+|               gag0003.p3d
+|               gag0004.p3d
+|               gag0100.p3d
+|               gag0101.p3d
+|               gag0102.p3d
+|               gag0103.p3d
+|               gag0104.p3d
+|               gag0105.p3d
+|               gag0106.p3d
+|               gag0107.p3d
+|               gag0201.p3d
+|               gag0202.p3d
+|               gag0203.p3d
+|               gag0204.p3d
+|               gag0205.p3d
+|               gag0207.p3d
+|               gag0208.p3d
+|               gag0209.p3d
+|               gag0210.p3d
+|               gag0300.p3d
+|               gag0301.p3d
+|               gag0400.p3d
+|               gag0401.p3d
+|               gag0402.p3d
+|               gag0403.p3d
+|               gag0600.p3d
+|               gag0601.p3d
+|               gag_alm2.p3d
+|               gag_alrm.p3d
+|               gag_atm.p3d
+|               gag_azte.p3d
+|               gag_bat2.p3d
+|               gag_bats.p3d
+|               gag_bbq.p3d
+|               gag_bed.p3d
+|               gag_beem.p3d
+|               gag_blow.p3d
+|               gag_bomb.p3d
+|               gag_buly.p3d
+|               gag_burn.p3d
+|               gag_car.p3d
+|               gag_cata.p3d
+|               gag_clnk.p3d
+|               gag_crow.p3d
+|               gag_duff.p3d
+|               gag_fire.p3d
+|               gag_flag.p3d
+|               gag_flm.p3d
+|               gag_gas.p3d
+|               gag_ismv.p3d
+|               gag_jar.p3d
+|               gag_jasp.p3d
+|               gag_kids.p3d
+|               gag_k_h1.p3d
+|               gag_k_js.p3d
+|               gag_k_k1.p3d
+|               gag_k_m1.p3d
+|               gag_k_n1.p3d
+|               gag_k_n2.p3d
+|               gag_k_sr.p3d
+|               gag_lamp.p3d
+|               gag_love.p3d
+|               gag_matt.p3d
+|               gag_melt.p3d
+|               gag_mgr.p3d
+|               gag_milk.p3d
+|               gag_mol2.p3d
+|               gag_mole.p3d
+|               gag_pant.p3d
+|               gag_perp.p3d
+|               gag_pig.p3d
+|               gag_racm.p3d
+|               gag_ralf.p3d
+|               gag_s1.p3d
+|               gag_s2.p3d
+|               gag_s3.p3d
+|               gag_s4.p3d
+|               gag_s5.p3d
+|               gag_sc_1.p3d
+|               gag_sc_2.p3d
+|               gag_sc_3.p3d
+|               gag_sc_4.p3d
+|               gag_sc_5.p3d
+|               gag_shel.p3d
+|               gag_sknr.p3d
+|               gag_slot.p3d
+|               gag_smk.p3d
+|               gag_sqsh.p3d
+|               gag_swg2.p3d
+|               gag_swg3.p3d
+|               gag_swng.p3d
+|               gag_s_f1.p3d
+|               gag_s_f2.p3d
+|               gag_s_h1.p3d
+|               gag_s_m1.p3d
+|               gag_s_m2.p3d
+|               gag_tele.p3d
+|               gag_tony.p3d
+|               gag_tv.p3d
+|               gag_will.p3d
+|               l04_azte.p3d
+|               l04_bbq.p3d
+|               l04_gas.p3d
+|               l04_mgr.p3d
+|               l04_swg2.p3d
+|               l04_swg3.p3d
+|               l04_swng.p3d
+|               l05_bomb.p3d
+|               l05_car.p3d
+|               L05_cata.p3d
+|               l05_milk.p3d
+|               l05_tony.p3d
+|               l06_flag.p3d
+|               l06_pant.p3d
+|               l06_pig.p3d
+|               l07_azte.p3d
+|               l07_bbq.p3d
+|               l07_gas.p3d
+|               l07_mgr.p3d
+|               l07_shel.p3d
+|               l07_swg2.p3d
+|               l07_swg3.p3d
+|               l07_swng.p3d
+|               l2_dump.p3d
+|               l3_dump.p3d
+|               l5_dump.p3d
+|               l6_dump.p3d
+|
++---DLLs
+|       cacert.pem
+|       crypto-42.dll
+|       curl.dll
+|       dbghelp.dll
+|       GfeSDK.dll
+|       Hacks.dll
+|       ssl-44.dll
+|       zlib.dll
+|
++---Mods
+|       NeverBusted.lmlm
+|       NoAudio.lmlm
+|       NoHUD.lmlm
+|       NoLicenseScreenDelay.lmlm
+|       NoTraffic.lmlm
+|       RepairCarOnReset.lmlm
+|       Speedometer.lmlm
+|       TextNames.lmlm
+|       UnlockAllRewards.lmlm
+|
++---movies
+|       credits.rmv
+|       fmv1A.rmv
+|       fmv2.rmv
+|       fmv3.rmv
+|       fmv4.rmv
+|       fmv5.rmv
+|       fmv6.rmv
+|       fmv7.rmv
+|       fmv8.rmv
+|       foxlogo.rmv
+|       gracie.rmv
+|       gvuglogo.rmv
+|       intro.rmv
+|       loot.rmv
+|       radlogo.rmv
+|       tele.rmv
+|       vuglogo.rmv
+|
++---scripts
+|   |   ss.mfk
+|   |   ssi.mfk
+|   |
+|   +---cars
+|   |   |   ambul.con
+|   |   |   apu_v.con
+|   |   |   atv_v.con
+|   |   |   bart_v.con
+|   |   |   bbman_v.con
+|   |   |   bookb_v.con
+|   |   |   burnsarm.con
+|   |   |   burns_v.con
+|   |   |   carhom_v.con
+|   |   |   cArmor.con
+|   |   |   cBlbart.con
+|   |   |   cBone.con
+|   |   |   cCellA.con
+|   |   |   cCellB.con
+|   |   |   cCellC.con
+|   |   |   cCellD.con
+|   |   |   cCola.con
+|   |   |   cCube.con
+|   |   |   cCurator.con
+|   |   |   cDonut.con
+|   |   |   cDuff.con
+|   |   |   cFire_v.con
+|   |   |   cHears.con
+|   |   |   cKlimo.con
+|   |   |   cletu_v.con
+|   |   |   cLimo.con
+|   |   |   cMilk.con
+|   |   |   cNerd.con
+|   |   |   cNonup.con
+|   |   |   coffin.con
+|   |   |   comic_v.con
+|   |   |   compactA.con
+|   |   |   cPolice.con
+|   |   |   cSedan.con
+|   |   |   cVan.con
+|   |   |   dune_v.con
+|   |   |   elect_v.con
+|   |   |   famil_v.con
+|   |   |   fishtruc.con
+|   |   |   fone_v.con
+|   |   |   frink_v.con
+|   |   |   garbage.con
+|   |   |   glastruc.con
+|   |   |   gramp_v.con
+|   |   |   gramR_v.con
+|   |   |   hallo.con
+|   |   |   hbike_v.con
+|   |   |   homer_v.con
+|   |   |   honor_v.con
+|   |   |   huskA.con
+|   |   |   hype_v.con
+|   |   |   icecream.con
+|   |   |   IStruck.con
+|   |   |   knigh_v.con
+|   |   |   krust_v.con
+|   |   |   lisa_v.con
+|   |   |   marge_v.con
+|   |   |   minivanA.con
+|   |   |   moe_v.con
+|   |   |   mono_v.con
+|   |   |   mrplo_v.con
+|   |   |   nuctruck.con
+|   |   |   oblit_v.con
+|   |   |   otto_v.con
+|   |   |   pickupA.con
+|   |   |   pizza.con
+|   |   |   plowk_v.con
+|   |   |   redbrick.con
+|   |   |   rocke_v.con
+|   |   |   schoolbu.con
+|   |   |   scorp_v.con
+|   |   |   sedanA.con
+|   |   |   sedanB.con
+|   |   |   ship.con
+|   |   |   skinn_m1.con
+|   |   |   skinn_v.con
+|   |   |   smith_v.con
+|   |   |   snake_v.con
+|   |   |   sportsA.con
+|   |   |   sportsB.con
+|   |   |   SUVA.con
+|   |   |   taxiA.con
+|   |   |   test.con
+|   |   |   tt.con
+|   |   |   votetruc.con
+|   |   |   wagonA.con
+|   |   |   wiggu_v.con
+|   |   |   willi_v.con
+|   |   |   witchcar.con
+|   |   |   zombi_v.con
+|   |   |
+|   |   +---Bonus
+|   |   |       bg1_1.con
+|   |   |       bg1_2.con
+|   |   |       bg1_3.con
+|   |   |       bg2_1.con
+|   |   |       bg2_2.con
+|   |   |       bg2_3.con
+|   |   |       bg3_1.con
+|   |   |       bg3_2.con
+|   |   |       bg3_3.con
+|   |   |       bg4_1.con
+|   |   |       bg4_2.con
+|   |   |       bg4_3.con
+|   |   |       bg5_1.con
+|   |   |       bg5_2.con
+|   |   |       bg5_3.con
+|   |   |       bg6_1.con
+|   |   |       bg6_2.con
+|   |   |       bg6_3.con
+|   |   |       bg7_1.con
+|   |   |       bg7_2.con
+|   |   |       bg7_3.con
+|   |   |
+|   |   +---Chase
+|   |   |       ColaChas.con
+|   |   |       EasierC.con
+|   |   |       EasyChas.con
+|   |   |       HardChas.con
+|   |   |       MedChas.con
+|   |   |
+|   |   +---Destroy
+|   |   |       EasyDest.con
+|   |   |       HardDest.con
+|   |   |       MedDest.con
+|   |   |
+|   |   +---EasyRace
+|   |   |       AI_1st.con
+|   |   |       AI_2nd.con
+|   |   |       AI_3rd.con
+|   |   |       AI_4th.con
+|   |   |       AI_5th.con
+|   |   |
+|   |   +---HardRace
+|   |   |       AI_1st.con
+|   |   |       AI_2nd.con
+|   |   |       AI_3rd.con
+|   |   |       AI_4th.con
+|   |   |       AI_5th.con
+|   |   |
+|   |   +---L6Race
+|   |   |       AI_1st.con
+|   |   |       AI_2nd.con
+|   |   |       AI_3rd.con
+|   |   |       AI_4th.con
+|   |   |
+|   |   +---MedRace
+|   |   |       AI_1st.con
+|   |   |       AI_2nd.con
+|   |   |       AI_3rd.con
+|   |   |       AI_4th.con
+|   |   |       AI_5th.con
+|   |   |
+|   |   +---Missions
+|   |   |   |   L1M7.con
+|   |   |   |
+|   |   |   +---level01
+|   |   |   |       M1race.con
+|   |   |   |       M3dest.con
+|   |   |   |       M5evade.con
+|   |   |   |       M6dump.con
+|   |   |   |       M7race.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   +---level02
+|   |   |   |       M1chase.con
+|   |   |   |       M2chase.con
+|   |   |   |       M2evade.con
+|   |   |   |       M3race.con
+|   |   |   |       M4evade.con
+|   |   |   |       M4race.con
+|   |   |   |       M5chase.con
+|   |   |   |       M7dest.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   +---level03
+|   |   |   |       M1race.con
+|   |   |   |       M2chase.con
+|   |   |   |       M3dump.con
+|   |   |   |       M4dest.con
+|   |   |   |       M5dump.con
+|   |   |   |       M7dest.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   +---level04
+|   |   |   |       M1dump.con
+|   |   |   |       M1evade.con
+|   |   |   |       M2chase.con
+|   |   |   |       M3evade.con
+|   |   |   |       M4race.con
+|   |   |   |       M5chase.con
+|   |   |   |       M7dest.con
+|   |   |   |       M7evade.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   +---level05
+|   |   |   |       BM1dest.con
+|   |   |   |       M1chase.con
+|   |   |   |       M2dest.con
+|   |   |   |       M2evade.con
+|   |   |   |       M3dump.con
+|   |   |   |       M4chase.con
+|   |   |   |       M5dump.con
+|   |   |   |       M6dest.con
+|   |   |   |       M7dest.con
+|   |   |   |       M7race.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   +---level06
+|   |   |   |       BM1dest.con
+|   |   |   |       BM1dest2.con
+|   |   |   |       M1otto_v.con
+|   |   |   |       M2follow.con
+|   |   |   |       M2race.con
+|   |   |   |       M3chase.con
+|   |   |   |       M4dump.con
+|   |   |   |       M5dest.con
+|   |   |   |       M7race.con
+|   |   |   |       sr2_1st.con
+|   |   |   |       sr2_2nd.con
+|   |   |   |       sr2_3rd.con
+|   |   |   |       sr2_4th.con
+|   |   |   |       sr3_1st.con
+|   |   |   |       sr3_2nd.con
+|   |   |   |       sr3_3rd.con
+|   |   |   |       sr3_4th.con
+|   |   |   |
+|   |   |   \---level07
+|   |   |           M2chase.con
+|   |   |           M4chase.con
+|   |   |           M6race.con
+|   |   |           M7chase.con
+|   |   |           M7race.con
+|   |   |           sr2_1st.con
+|   |   |           sr2_2nd.con
+|   |   |           sr2_3rd.con
+|   |   |           sr2_4th.con
+|   |   |           sr3_1st.con
+|   |   |           sr3_2nd.con
+|   |   |           sr3_3rd.con
+|   |   |           sr3_4th.con
+|   |   |
+|   |   \---Pursuit
+|   |           Easycop.con
+|   |           Hardcop.con
+|   |           L1cop.con
+|   |           L2cop.con
+|   |           L3cop.con
+|   |           L4cop.con
+|   |           L5cop.con
+|   |           L6cop.con
+|   |           L7cop.con
+|   |
+|   \---missions
+|       |   e3rwrds.mfk
+|       |   rewards.mfk
+|       |
+|       +---level01
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m0i.mfk
+|       |       m0l.mfk
+|       |       m0sdi.mfk
+|       |       m0sdl.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level02
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       e3level.mfk
+|       |       e3leveli.mfk
+|       |       e3m1i.mfk
+|       |       e3m1l.mfk
+|       |       e3m1sdi.mfk
+|       |       e3m1sdl.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       m8i.mfk
+|       |       m8l.mfk
+|       |       m8sdi.mfk
+|       |       m8sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level03
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level04
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level05
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       m8i.mfk
+|       |       m8l.mfk
+|       |       m8sdi.mfk
+|       |       m8sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level06
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       m8i.mfk
+|       |       m8l.mfk
+|       |       m8sdi.mfk
+|       |       m8sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level07
+|       |       bm1i.mfk
+|       |       bm1l.mfk
+|       |       d1i.mfk
+|       |       d1l.mfk
+|       |       demo.mfk
+|       |       demoi.mfk
+|       |       e3level.mfk
+|       |       e3leveli.mfk
+|       |       e3m1i.mfk
+|       |       e3m1l.mfk
+|       |       e3m1sdi.mfk
+|       |       e3m1sdl.mfk
+|       |       gr1i.mfk
+|       |       gr1l.mfk
+|       |       level.mfk
+|       |       leveli.mfk
+|       |       m1i.mfk
+|       |       m1l.mfk
+|       |       m1sdi.mfk
+|       |       m1sdl.mfk
+|       |       m2i.mfk
+|       |       m2l.mfk
+|       |       m2sdi.mfk
+|       |       m2sdl.mfk
+|       |       m3i.mfk
+|       |       m3l.mfk
+|       |       m3sdi.mfk
+|       |       m3sdl.mfk
+|       |       m4i.mfk
+|       |       m4l.mfk
+|       |       m4sdi.mfk
+|       |       m4sdl.mfk
+|       |       m5i.mfk
+|       |       m5l.mfk
+|       |       m5sdi.mfk
+|       |       m5sdl.mfk
+|       |       m6i.mfk
+|       |       m6l.mfk
+|       |       m6sdi.mfk
+|       |       m6sdl.mfk
+|       |       m7i.mfk
+|       |       m7l.mfk
+|       |       m7sdi.mfk
+|       |       m7sdl.mfk
+|       |       m8i.mfk
+|       |       m8l.mfk
+|       |       m8sdi.mfk
+|       |       m8sdl.mfk
+|       |       sr1i.mfk
+|       |       sr1l.mfk
+|       |       sr2i.mfk
+|       |       sr2l.mfk
+|       |       sr3i.mfk
+|       |       sr3l.mfk
+|       |
+|       +---level08
+|       \---level09
+\---sound
+    |   accept.rsd
+    |   scroll.rsd
+    |
+    \---typ
+            srrtypes.typ
+

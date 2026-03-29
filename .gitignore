@@ -6,3 +6,4 @@ config.toml
 # game files
 source/**
 
+GameFiles/**

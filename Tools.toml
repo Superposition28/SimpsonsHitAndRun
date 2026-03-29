@@ -1,0 +1,27 @@
+title = "The Simpsons Hit and Run Tools"
+
+#[[tool]]
+#name = "Blender"
+#version = "4.5.4"
+#unpack = true
+
+[[tool]]
+name = "QuickBMS"
+version = "0.12.0"
+unpack = true
+
+[[tool]]
+name = "Godot"
+version = "4.6-stable-mono"
+unpack = true
+
+[[tool]]
+name = "vgmstream-cli"
+version = "r2023"
+unpack = true
+
+[[tool]]
+name = "ffmpeg"
+version = "8.0"
+unpack = true
+
