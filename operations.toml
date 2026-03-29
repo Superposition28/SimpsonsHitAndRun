@@ -5,7 +5,6 @@ id = 0
 init = true
 run-all = true # rerun when using run-all to ensure config is valid
 depends-on = []
-
 script_type = "lua"
 script = "{{Game_Root}}/operations/init.lua"
 
@@ -16,7 +15,6 @@ id = 3
 Name = "Download Required Tools"
 run-all = true
 depends-on = [0]
-
 script_type = "engine"
 script = "download-tools"
 tools_manifest = "{{Game_Root}}/Tools.toml"
@@ -28,7 +26,7 @@ tools_manifest = "{{Game_Root}}/Tools.toml"
 id = 4
 Name = "Convert Videos (.rmv -> .ogv)"
 run-all = true
-depends-on = [6] # depends on ffmpeg being downloaded
+depends-on = [3] # depends on ffmpeg being downloaded
 script_type = "engine"
 script = "format-convert"
 tool = "ffmpeg"
@@ -48,22 +46,67 @@ args = [
 
 ## convert Audio into a usable format for godot
 [[operation]]
-id = 10
+id = 5
 Name = "Convert Audio (.rsd -> .wav)"
 run-all = true
-depends-on = [6] # depends on vgmstream being downloaded, could depend on audio reorg but that is technically optional
+depends-on = [3] # depends on vgmstream being downloaded
 script_type = "engine"
 script = "format-convert"
 tool = "vgmstream"
 args = [
     "-m", "vgmstream",
     "--type", "audio",
-    ## doesnt need to specify the location of the audiostreams folder as its within the source path and {{STROUT}} and the only location snu files exist
     "-s", "{{SourcePath}}/sound",
     "-t", "{{Game_Root}}/GameFiles/sound",
     "-i", ".rsd",
     "-o", ".wav",
     "--godot-compatible"
+]
+
+
+[[operation]]
+id = 6
+Name = "convert 'sound/typ/srrtypes.typ' file to .json"
+run-all = true
+depends-on = []
+script_type = "lua"
+script = "{{Game_Root}}/operations/format/typ.lua"
+args = [
+    "{{SourcePath}}/sound/typ/srrtypes.typ",
+    "{{Game_Root}}/GameFiles/sound/typ/srrtypes.json"
+]
+
+
+
+[[operation]]
+id = 7
+Name = "Extract Archives (.rcf)"
+run-all = true
+depends-on = [3] # depends on qbms tool
+script_type = "bms"
+script = "{{Game_Root}}/operations/Scripts/atg_core_cement.bms"
+input = "{{SourcePath}}/"
+output = "{{Game_Root}}/GameFiles/"
+extension = ".rcf"
+
+## convert Audio into a usable format for godot
+[[operation]]
+id = 8
+Name = "Convert extracted Audio (.rsd -> .wav)"
+run-all = true
+depends-on = [7,3] # depends on vgmstream being downloaded
+script_type = "engine"
+script = "format-convert"
+tool = "vgmstream"
+args = [
+    "-m", "vgmstream",
+    "--type", "audio",
+    "-s", "{{Game_Root}}/GameFiles/",
+    "-t", "{{Game_Root}}/GameFiles/",
+    "-i", ".rsd",
+    "-o", ".wav",
+    "--godot-compatible",
+    "--replace"
 ]
 
 
