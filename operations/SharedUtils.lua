@@ -60,7 +60,7 @@ function Utils.Normalize(path)
     return PathValue
 end
 
-function Utils.Join(...)
+function Utils.join(...)
     return Utils.Normalize(join(...))
 end
 
@@ -95,7 +95,7 @@ function Utils.ResolveInputPath(path)
     end
 
     if not Utils.IsAbsolute(Value) then
-        Value = Utils.Join(sdk.currentdir(), Value)
+        Value = Utils.join(sdk.currentdir(), Value)
     end
 
     return Utils.Normalize(Value)
@@ -108,7 +108,7 @@ function Utils.CountFiles(path)
 
     local Count = 0
     for _, entry in ipairs(sdk.list_dir(path)) do
-        local FullPath = Utils.Join(path, entry)
+        local FullPath = Utils.join(path, entry)
         if FullPath then
             local Attributes = sdk.attributes(FullPath)
             if Attributes and Attributes.mode == "file" then
@@ -130,8 +130,8 @@ function Utils.CopyTree(sourcePath, destinationPath, totalCount, state)
     sdk.ensure_dir(destinationPath)
 
     for _, entry in ipairs(sdk.list_dir(sourcePath)) do
-        local SourceEntry = Utils.Join(sourcePath, entry)
-        local DestinationEntry = Utils.Join(destinationPath, entry)
+        local SourceEntry = Utils.join(sourcePath, entry)
+        local DestinationEntry = Utils.join(destinationPath, entry)
         local Attributes = SourceEntry and sdk.attributes(SourceEntry) or nil
 
         if Attributes and Attributes.mode == "directory" then

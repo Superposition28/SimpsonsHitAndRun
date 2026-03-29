@@ -40,7 +40,8 @@ args = [
     "--video-codec", "libtheora",
     "--video-quality", "7",
     "--audio-codec", "libvorbis",
-    "--audio-quality", "4"
+    "--audio-quality", "4",
+    "--replace" # deletes the original .rmv files after conversion
 ]
 
 
@@ -60,7 +61,8 @@ args = [
     "-t", "{{Game_Root}}/GameFiles/sound",
     "-i", ".rsd",
     "-o", ".wav",
-    "--godot-compatible"
+    "--godot-compatible",
+    "--replace"
 ]
 
 
@@ -110,3 +112,15 @@ args = [
 ]
 
 
+[[operation]]
+id = 9
+Name = "Copy Source Files"
+run-all = true
+depends-on = [1]
+script_type = "lua"
+script = "{{Game_Root}}/operations/CopySourceFiles.lua"
+args = [
+    "--source", "{{SourcePath}}",
+    "--target", "{{Game_Root}}/GameFiles/",
+    "--move"
+]

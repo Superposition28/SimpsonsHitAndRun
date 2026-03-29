@@ -9,8 +9,8 @@ local initutil = import("init/utils")
 
 local function main()
 	local ModuleDir = Utils.Dirname(script_dir)
-	local ConfigPath = Utils.Join(ModuleDir, "config.toml")
-	local LocalSourceRoot = Utils.Join(ModuleDir, "Source")
+	local ConfigPath = Utils.join(ModuleDir, "config.toml")
+	local LocalSourceRoot = Utils.join(ModuleDir, "Source")
 
 	local Placeholders = initutil.EnsureConfig(ConfigPath)
 

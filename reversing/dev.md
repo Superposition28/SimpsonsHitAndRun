@@ -2,13 +2,13 @@
 Files Stored Directly in Game source folder
 | Extension | Files |
 |-----------|------:|
-| .p3d | 1965 |
-| .png | 930 |
-| .mfk | 344 |
-| .con | 255 |
-| .pag | 119 |
-| .scr | 68 |
-| .rmv | 17 |
+| .p3d      | 1965  |
+| .png      | 930   |
+| .mfk      | 344   |
+| .con      | 255   |
+| .pag      | 119   |
+| .scr      | 68    |
+| .rmv      | 17    |
 | .prj | 13 |
 | .err | 11 |
 | .rcf | 10 |
@@ -37,7 +37,7 @@ Files stored within .rcf archives
 
 ### **Core Engine Assets (Pure3D)**
 * **`.p3d` (Pure3D):** The backbone of the game's visuals. These proprietary files contain 3D models (characters, vehicles, map chunks), skeletons, animations, and textures. 
-* **`.rcf` (Radical Cement File):** The main archive container format, functioning much like a `.zip` or `.pak` file. The base game compresses its `.p3d` and audio assets into these bulk archives to save loading time.
+* **`.rcf` (Radical Cement File):** The main archive container format, The game uses these to store and organize assets in a way that allows for efficient streaming and loading. Inside these archives, you'll find various file types, including `.rsd` audio files, `.spt` sound scripts, and `.rms` music composition files.
 * **`.rmv` (Radical Movie):** Video files used for the game's FMV (Full Motion Video) cutscenes. These are actually standard Bink Video (`.bik`) files that the developers simply renamed.
 * **`.rsd` (Radical Sound Data):** The proprietary audio format used for the game's music tracks, sound effects, and voice lines.
 * **`.cho` (Choreography):** Data files used specifically to sync character facial animations and lip-movements with the `.rsd` voice audio during in-game dialogue.
