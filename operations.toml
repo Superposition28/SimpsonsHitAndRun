@@ -22,17 +22,3 @@ script = "download-tools"
 tools_manifest = "{{Game_Root}}/Tools.toml"
 
 
-#
-[[operation]]
-id = 4
-Name = "Extract Archives"
-run-all = true
-depends-on = [3]
-
-script_type = "bms"
-script = "{{Game_Root}}/Scripts/atg_core_cement.bms"
-input = "{{SourcePath}}"
-output = "GameFiles/STROUT"
-extension = ".str"
-
-
